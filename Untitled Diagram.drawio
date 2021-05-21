@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T05:23:34.125Z" agent="5.0 (Windows)" etag="bU8cNue71v-NFusD-DwZ" version="14.6.13" type="github" pages="2">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-05-21T08:05:52.241Z" agent="5.0 (Windows)" etag="eoKJlBWvJbz1C7jdwh5G" version="14.6.13" type="github" pages="2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="TUYỂN SINH">
     <mxGraphModel dx="1102" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -28,13 +28,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Trúng tuyển" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=Tahoma;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="veGy11Aom1nNv9LD2sAD-1" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Đang tuyển sinh&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Trúng tuyển&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Đã nộp lệ phí&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Nhập học&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="110" width="160" height="90" as="geometry" />
+        <mxCell id="veGy11Aom1nNv9LD2sAD-1" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Đang tư vấn&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Đã trúng tuyển (chuyển sang bảng sinh viên)&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Không có nhu cầu&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Dừng tư vấn&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="70" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="veGy11Aom1nNv9LD2sAD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;fontFamily=Tahoma;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="veGy11Aom1nNv9LD2sAD-9" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="veGy11Aom1nNv9LD2sAD-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;fontFamily=Tahoma;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="veGy11Aom1nNv9LD2sAD-9">
+        <mxCell id="veGy11Aom1nNv9LD2sAD-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;fontFamily=Tahoma;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="veGy11Aom1nNv9LD2sAD-9" target="veGy11Aom1nNv9LD2sAD-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="399.9999999999999" as="targetPoint" />
           </mxGeometry>
@@ -51,31 +51,31 @@
         <mxCell id="veGy11Aom1nNv9LD2sAD-20" value="&lt;font style=&quot;font-size: 11px&quot;&gt;True&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="220" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="veGy11Aom1nNv9LD2sAD-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;fontFamily=Tahoma;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="veGy11Aom1nNv9LD2sAD-27" target="veGy11Aom1nNv9LD2sAD-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="veGy11Aom1nNv9LD2sAD-27" value="&lt;div&gt;Nhập học&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="veGy11Aom1nNv9LD2sAD-33" value="&lt;div align=&quot;left&quot;&gt;- Cập nhật trạng thái&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Dữ liệu: Hệ ĐT, Ngành&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="270" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="veGy11Aom1nNv9LD2sAD-37" value="&lt;div align=&quot;left&quot;&gt;- Cập nhật vào bảng sinh viên&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Dữ liệu: Lớp, MSV, Ngày nhập&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="470" width="180" height="60" as="geometry" />
+        <mxCell id="veGy11Aom1nNv9LD2sAD-33" value="&lt;div align=&quot;left&quot;&gt;- Cập nhật trạng thái&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Dữ liệu: Hệ ĐT, Ngành&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cập nhật vào bảng sinh viên&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Giấy báo trúng tuyển kèm lệ phí (lấy lệ phí theo mã hệ)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="245" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="veGy11Aom1nNv9LD2sAD-39" value="&lt;font style=&quot;font-size: 11px&quot;&gt;True&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="380" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="veGy11Aom1nNv9LD2sAD-40" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;TUYỂN SINH&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="20" width="110" height="20" as="geometry" />
+        <mxCell id="veGy11Aom1nNv9LD2sAD-40" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;TUYỂN SINH&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="20" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="veGy11Aom1nNv9LD2sAD-41" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Trạng thái sinh viên&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="80" width="140" height="20" as="geometry" />
+        <mxCell id="veGy11Aom1nNv9LD2sAD-41" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Trạng thái sinh viên tiềm năng&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="495" y="40" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JpvHrv6NvtHfV1FXgaVz-0" value="&lt;b&gt;Trạng thái sinh viên&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="40" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JpvHrv6NvtHfV1FXgaVz-3" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Trúng tuyển (Thông báo cho sv đến nhập học)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Đã nhập học (Chưa chia lớp)&lt;/li&gt;&lt;li&gt;Đang học (chia lớp)&lt;/li&gt;&lt;li&gt;Đang tạm nghỉ (bảo lưu)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Đã nghỉ học&lt;/li&gt;&lt;li&gt;Đã tốt nghiệp&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="70" width="200" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="WAffIJWIuBpVeepLNHPL" name="Page-2">
+  <diagram id="WAffIJWIuBpVeepLNHPL" name="TCKT">
     <mxGraphModel dx="1102" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="J8Mch86xFvpeGTAlJmEP-0" />
