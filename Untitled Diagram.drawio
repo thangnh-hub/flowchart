@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T03:42:10.226Z" agent="5.0 (Windows)" etag="2yIbfHyjiE0UQXhTl1Py" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T05:23:34.125Z" agent="5.0 (Windows)" etag="bU8cNue71v-NFusD-DwZ" version="14.6.13" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1102" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,6 +72,14 @@
         <mxCell id="veGy11Aom1nNv9LD2sAD-41" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Trạng thái sinh viên&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="80" width="140" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WAffIJWIuBpVeepLNHPL" name="Page-2">
+    <mxGraphModel dx="1102" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="J8Mch86xFvpeGTAlJmEP-0" />
+        <mxCell id="J8Mch86xFvpeGTAlJmEP-1" parent="J8Mch86xFvpeGTAlJmEP-0" />
       </root>
     </mxGraphModel>
   </diagram>
