@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T11:24:21.548Z" agent="5.0 (Windows)" etag="OK6bO19_evCt5DCM2_T-" version="14.7.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-25T10:12:13.768Z" agent="5.0 (Windows)" etag="SxFBOk0ua-zJ81bZmC7a" version="14.7.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="TUYỂN SINH">
     <mxGraphModel dx="1102" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="Dl4W9ku1iDvw82DN0MaP-4" value="4. Đang có nhu cầu" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Dl4W9ku1iDvw82DN0MaP-0" vertex="1">
           <mxGeometry y="104" width="280" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="m93CnF7kySLIAStd7gwd-0" value="5 Hủy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dl4W9ku1iDvw82DN0MaP-0">
+        <mxCell id="m93CnF7kySLIAStd7gwd-0" value="5 Hủy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Dl4W9ku1iDvw82DN0MaP-0" vertex="1">
           <mxGeometry y="130" width="280" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Dl4W9ku1iDvw82DN0MaP-5" value="Trạng thái sinh viên" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -164,7 +164,7 @@
         <mxCell id="CjkOdy3gOc2RHrCnya2a-7" value="Id phiếu thu" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;" parent="CjkOdy3gOc2RHrCnya2a-0" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CjkOdy3gOc2RHrCnya2a-31" value="Mã sổ thu" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;" parent="CjkOdy3gOc2RHrCnya2a-0" vertex="1">
+        <mxCell id="CjkOdy3gOc2RHrCnya2a-31" value="Id sổ thu" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;" parent="CjkOdy3gOc2RHrCnya2a-0" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="CjkOdy3gOc2RHrCnya2a-1" value="Tiêu đề" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;" parent="CjkOdy3gOc2RHrCnya2a-0" vertex="1">
@@ -258,7 +258,7 @@
           <mxGeometry y="156" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="CjkOdy3gOc2RHrCnya2a-47" value="Chi tiết phiếu thu" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="fAs2uiH12eTAqGDmfKWc-1" vertex="1">
-          <mxGeometry x="640" y="80" width="180" height="208" as="geometry" />
+          <mxGeometry x="640" y="80" width="180" height="234" as="geometry" />
         </mxCell>
         <mxCell id="CjkOdy3gOc2RHrCnya2a-48" value="Id phiếu thu" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;" parent="CjkOdy3gOc2RHrCnya2a-47" vertex="1">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
@@ -278,8 +278,11 @@
         <mxCell id="CjkOdy3gOc2RHrCnya2a-53" value="Kiểm giảm trừ: Có / Không" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;" parent="CjkOdy3gOc2RHrCnya2a-47" vertex="1">
           <mxGeometry y="156" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CjkOdy3gOc2RHrCnya2a-54" value="Trạng thái" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;" parent="CjkOdy3gOc2RHrCnya2a-47" vertex="1">
+        <mxCell id="aEv7IdbLhGBF9_ROry01-0" value="Mức thu thực tế" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;" vertex="1" parent="CjkOdy3gOc2RHrCnya2a-47">
           <mxGeometry y="182" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CjkOdy3gOc2RHrCnya2a-54" value="Trạng thái" style="text;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;" parent="CjkOdy3gOc2RHrCnya2a-47" vertex="1">
+          <mxGeometry y="208" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="c4IWjgD4HeRrmMyWri3v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="fAs2uiH12eTAqGDmfKWc-1" source="H7z0gJlImK9jyItx7Gz0-1" target="c4IWjgD4HeRrmMyWri3v-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
