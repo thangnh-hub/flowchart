@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T04:07:32.143Z" agent="5.0 (Windows)" etag="Swin-YfKBjvuwmP2-iP_" version="14.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-03T05:15:07.789Z" agent="5.0 (Windows)" etag="qpbbYfV7e6mHaKuu8lkM" version="14.7.4" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="TUYỂN SINH">
     <mxGraphModel dx="748" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,10 +390,10 @@
         <mxCell id="8RbCKLBBjErQw8_L0lg_-11" value="Quản lý tổ chức thi" style="rounded=1;whiteSpace=wrap;html=1;" parent="8RbCKLBBjErQw8_L0lg_-1" vertex="1">
           <mxGeometry x="360" y="240" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8RbCKLBBjErQw8_L0lg_-12" value="Nhập điểm - Xếp loại" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="8RbCKLBBjErQw8_L0lg_-1" vertex="1">
+        <mxCell id="8RbCKLBBjErQw8_L0lg_-12" value="Quản lý điểm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="8RbCKLBBjErQw8_L0lg_-1" vertex="1">
           <mxGeometry x="360" y="320" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8RbCKLBBjErQw8_L0lg_-13" value="Quản lý văn bằng" style="rounded=1;whiteSpace=wrap;html=1;" parent="8RbCKLBBjErQw8_L0lg_-1" vertex="1">
+        <mxCell id="8RbCKLBBjErQw8_L0lg_-13" value="Xếp loại - đánh giá" style="rounded=1;whiteSpace=wrap;html=1;" parent="8RbCKLBBjErQw8_L0lg_-1" vertex="1">
           <mxGeometry x="360" y="400" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8RbCKLBBjErQw8_L0lg_-14" value="Giai đoạn 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="8RbCKLBBjErQw8_L0lg_-1" vertex="1">
@@ -429,8 +429,14 @@
         <mxCell id="8RbCKLBBjErQw8_L0lg_-25" value="05/07/2021 - 05/08/2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8RbCKLBBjErQw8_L0lg_-1" vertex="1">
           <mxGeometry x="655" y="50" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MRNussQx1WXhMdbqrWJ8-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Đánh giá xếp loại&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Tổng kết điểm theo công thức&lt;/p&gt;&lt;p&gt;- Thực hiện xếp loại theo giai đoạn: từng học kỳ và tổng kết khóa học khi tốt nghiệp&lt;/p&gt;&lt;p&gt;- Đánh giá xếp loại và lưu vào bảng xếp loại độc lập&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="8RbCKLBBjErQw8_L0lg_-1">
-          <mxGeometry x="40" y="490" width="250" height="240" as="geometry" />
+        <mxCell id="MRNussQx1WXhMdbqrWJ8-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Đánh giá xếp loại&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Tổng kết điểm theo công thức&lt;/p&gt;&lt;p&gt;- Thực hiện xếp loại theo giai đoạn: từng học kỳ và tổng kết khóa học khi tốt nghiệp&lt;/p&gt;&lt;p&gt;- Đánh giá xếp loại và lưu vào bảng xếp loại độc lập&lt;/p&gt;&lt;p&gt;- Bảng tổng hơp theo kỳ và bảng tổng hợp theo tốt nghiệp&lt;/p&gt;&lt;p&gt;- Cho phép chạy lại dữ liệu, không cho sửa kết quả trong bảng tổng hợp&lt;/p&gt;&lt;p&gt;- Thời hạn khóa dữ liệu tổng hợp (không đc phép chạy lại): cho phép cấu hình theo kỳ - khóa&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="8RbCKLBBjErQw8_L0lg_-1">
+          <mxGeometry x="20" y="490" width="300" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MRNussQx1WXhMdbqrWJ8-1" value="Quản lý văn bằng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8RbCKLBBjErQw8_L0lg_-1">
+          <mxGeometry x="360" y="480" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRNussQx1WXhMdbqrWJ8-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Tuyển sinh&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Tạo form chọn nhập học cho phép tìm kiếm thông tin và get vào nhập liệu&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Giữ nguyên thông tin sinh viên trong bảng tiềm năng&lt;/p&gt;&lt;p&gt;- Trạng thái sinh viên phải đc cập nhật tự động&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="8RbCKLBBjErQw8_L0lg_-1">
+          <mxGeometry x="20" y="800" width="300" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
