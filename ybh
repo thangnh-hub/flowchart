@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T07:58:36.542Z" agent="5.0 (Windows)" etag="tUYty_iitH79AC_m9qiH" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T09:08:48.777Z" agent="5.0 (Windows)" etag="Ppf6lqr-RiaHyGNMZu9I" version="14.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Affiliate">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,6 +192,9 @@
         </mxCell>
         <mxCell id="c2n9esyys8wYP3cOHxDJ-78" value="&lt;div align=&quot;left&quot;&gt;- Tạo dịch vụ tương ứng&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Duyệt dịch vụ tương ứng khi thanh toán thành công&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cho phép đổi affiliate thành điểm khi &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;dịch vụ được kích hoạt (tự động cộng điểm)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cho phép đổi điểm thành tiền tương ứng&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cho phép đề nghị thanh toán&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Đổi điểm và thành toán cần check đạt giới hạn&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;perimeterSpacing=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="442" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="c2n9esyys8wYP3cOHxDJ-79" value="&lt;div align=&quot;left&quot;&gt;&lt;span&gt;- Tạo tài khoản sau đó mới đăng ký dịch vụ tạo web hoặc mua khóa học&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span&gt;- Tất cả các bước đăng ký đều trên kênh dangky.ybh.vn&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span&gt;- Tất cả tài khoản khi đăng ký đều cần được duyệt bởi admin&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span&gt;- Tạo affiliate luôn theo level 2 cấp ngay khi có mã&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=0;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="585" width="410" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
