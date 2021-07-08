@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T06:47:43.969Z" agent="5.0 (Windows)" etag="gFka5U2FkIokEPMkoqX4" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-08T06:48:23.851Z" agent="5.0 (Windows)" etag="-PXi35X7FEe-SYe2wjQr" version="14.8.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Affiliate">
     <mxGraphModel dx="1554" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
           <mxGeometry y="234" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="c2n9esyys8wYP3cOHxDJ-45" value="Guard_user" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280" y="360" width="160" height="182" as="geometry">
+          <mxGeometry x="280" y="360" width="160" height="156" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -140,17 +140,14 @@
         <mxCell id="c2n9esyys8wYP3cOHxDJ-47" value="Total_money" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" parent="c2n9esyys8wYP3cOHxDJ-45" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="c2n9esyys8wYP3cOHxDJ-48" value="Paid_point" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" parent="c2n9esyys8wYP3cOHxDJ-45" vertex="1">
+        <mxCell id="c2n9esyys8wYP3cOHxDJ-49" value="Paid_money" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="c2n9esyys8wYP3cOHxDJ-45" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="c2n9esyys8wYP3cOHxDJ-49" value="Paid_money" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="c2n9esyys8wYP3cOHxDJ-45" vertex="1">
+        <mxCell id="c2n9esyys8wYP3cOHxDJ-51" value="Percent_level_1" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" parent="c2n9esyys8wYP3cOHxDJ-45" vertex="1">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="c2n9esyys8wYP3cOHxDJ-51" value="Percent_level_1" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" parent="c2n9esyys8wYP3cOHxDJ-45" vertex="1">
-          <mxGeometry y="130" width="160" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="c2n9esyys8wYP3cOHxDJ-52" value="Percent_level_2" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" parent="c2n9esyys8wYP3cOHxDJ-45" vertex="1">
-          <mxGeometry y="156" width="160" height="26" as="geometry" />
+          <mxGeometry y="130" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="c2n9esyys8wYP3cOHxDJ-54" value="&lt;div align=&quot;left&quot;&gt;Cấu hình mức Affiliate&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="10" width="140" height="20" as="geometry" />
