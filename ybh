@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T08:58:28.179Z" agent="5.0 (Windows)" etag="f_yq6fsjZyYhaIeY0Wrk" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-08T11:44:48.013Z" agent="5.0 (Windows)" etag="JZLjcm4ok4bMHn_5IMoB" version="14.8.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Affiliate">
-    <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -352,7 +352,7 @@
           <mxGeometry y="312" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="CYpLhZGGTFSyEuYDzc8--52" value="ps_themes" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1320" y="40" width="160" height="234" as="geometry">
+          <mxGeometry x="1241" y="41" width="160" height="234" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
