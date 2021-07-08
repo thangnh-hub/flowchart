@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T05:19:18.954Z" agent="5.0 (Windows)" etag="03YyjMph7PFKSW2wb0p8" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-08T05:20:29.103Z" agent="5.0 (Windows)" etag="zh6R3_p_bPimdsoSSkrq" version="14.8.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Affiliate">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,6 +276,9 @@
         </mxCell>
         <mxCell id="CYpLhZGGTFSyEuYDzc8--18" value="&lt;div&gt;Tạo điểm và tiền vào&lt;/div&gt;&lt;div&gt;Affiliate_change_point&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="920" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpLhZGGTFSyEuYDzc8--29" value="&lt;div align=&quot;left&quot;&gt;Kiểm tra cây level và thêm bản ghi tương ứng&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="880" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
