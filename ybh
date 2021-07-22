@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T08:19:02.571Z" agent="5.0 (Windows)" etag="LaaIr9LTF0TJ5Kekbctm" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-22T08:19:34.519Z" agent="5.0 (Windows)" etag="t-xdheva-eHsenLROxmW" version="14.9.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Affiliate">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -417,7 +417,7 @@
         <mxCell id="dg5Ju9obvZ3sAa8rmV_a-9" value="&lt;div&gt;Gửi email thông báo &lt;br&gt;&lt;/div&gt;&lt;div&gt;cho người dùng&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dg5Ju9obvZ3sAa8rmV_a-13" value="&lt;div align=&quot;left&quot;&gt;Các bước sau khi xác thực cần xử lý &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;như phần tạo mới user và cộng điểm&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="dg5Ju9obvZ3sAa8rmV_a-13" value="&lt;div align=&quot;left&quot;&gt;Các bước sau khi xác thực cần xử lý &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;như phần tạo mới user và cộng điểm&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="850" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
