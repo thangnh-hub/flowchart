@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T01:55:38.866Z" agent="5.0 (Windows)" etag="H-sxADGMUdbF6tsdh3gi" version="14.9.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-23T01:58:48.183Z" agent="5.0 (Windows)" etag="MdN_HTlrJcs3VvmXTLRD" version="14.9.2" type="github" pages="8">
   <diagram id="kXhTDbPVGtVAny8RVcD5" name="20210603">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,9 +66,6 @@
         </mxCell>
         <mxCell id="8RbCKLBBjErQw8_L0lg_-25" value="05/07/2021 - 05/08/2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8RbCKLBBjErQw8_L0lg_-1" vertex="1">
           <mxGeometry x="655" y="50" width="180" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MRNussQx1WXhMdbqrWJ8-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Đánh giá xếp loại&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Tổng kết điểm theo công thức&lt;/p&gt;&lt;p&gt;- Thực hiện xếp loại theo giai đoạn: từng học kỳ và tổng kết khóa học khi tốt nghiệp&lt;/p&gt;&lt;p&gt;- Đánh giá xếp loại và lưu vào bảng xếp loại độc lập&lt;/p&gt;&lt;p&gt;- Bảng tổng hơp theo kỳ và bảng tổng hợp theo tốt nghiệp&lt;/p&gt;&lt;p&gt;- Cho phép chạy lại dữ liệu, không cho sửa kết quả trong bảng tổng hợp&lt;/p&gt;&lt;p&gt;- Thời hạn khóa dữ liệu tổng hợp (không đc phép chạy lại): cho phép cấu hình theo kỳ - khóa&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="8RbCKLBBjErQw8_L0lg_-1" vertex="1">
-          <mxGeometry x="15" y="560" width="300" height="280" as="geometry" />
         </mxCell>
         <mxCell id="MRNussQx1WXhMdbqrWJ8-1" value="Quản lý văn bằng" style="rounded=1;whiteSpace=wrap;html=1;" parent="8RbCKLBBjErQw8_L0lg_-1" vertex="1">
           <mxGeometry x="360" y="480" width="130" height="40" as="geometry" />
@@ -450,6 +447,9 @@
       <root>
         <mxCell id="LUKWZDq96D697sPrwJXt-0" />
         <mxCell id="LUKWZDq96D697sPrwJXt-1" parent="LUKWZDq96D697sPrwJXt-0" />
+        <mxCell id="tsjHwAW3GXWZC0VDoLih-0" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;LỚP HỌC - ĐIỂM DANH&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Tahoma;" vertex="1" parent="LUKWZDq96D697sPrwJXt-1">
+          <mxGeometry x="20" y="19" width="220" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -458,6 +458,9 @@
       <root>
         <mxCell id="kKzyDXjO6jPB7J8Ih3gD-0" />
         <mxCell id="kKzyDXjO6jPB7J8Ih3gD-1" parent="kKzyDXjO6jPB7J8Ih3gD-0" />
+        <mxCell id="GpT75gbt2aZ-V2cSf2h9-0" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;QUẢN LÝ TỔ CHỨC THI&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Tahoma;" vertex="1" parent="kKzyDXjO6jPB7J8Ih3gD-1">
+          <mxGeometry x="10" y="9" width="220" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -466,6 +469,23 @@
       <root>
         <mxCell id="IRVYS8GNCzHvz7j71HMG-0" />
         <mxCell id="IRVYS8GNCzHvz7j71HMG-1" parent="IRVYS8GNCzHvz7j71HMG-0" />
+        <mxCell id="cDXZRij44sDZ8k4GeO6W-0" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;NHẬP ĐIỂM - ĐÁNH GIÁ - XẾP LOẠI&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Tahoma;" vertex="1" parent="IRVYS8GNCzHvz7j71HMG-1">
+          <mxGeometry x="10" y="9" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tU-f4pI_-t1Uuy56yC9e-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Đánh giá xếp loại&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Tổng kết điểm theo công thức&lt;/p&gt;&lt;p&gt;- Thực hiện xếp loại theo giai đoạn: từng học kỳ và tổng kết khóa học khi tốt nghiệp&lt;/p&gt;&lt;p&gt;- Đánh giá xếp loại và lưu vào bảng xếp loại độc lập&lt;/p&gt;&lt;p&gt;- Bảng tổng hơp theo kỳ và bảng tổng hợp theo tốt nghiệp&lt;/p&gt;&lt;p&gt;- Cho phép chạy lại dữ liệu, không cho sửa kết quả trong bảng tổng hợp&lt;/p&gt;&lt;p&gt;- Thời hạn khóa dữ liệu tổng hợp (không đc phép chạy lại): cho phép cấu hình theo kỳ - khóa&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="IRVYS8GNCzHvz7j71HMG-1">
+          <mxGeometry x="10" y="240" width="300" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JlZE00M3St7oi1X5hviJ" name="BÁO CÁO">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Bk_agwm_B3szpJZEiprO-0" />
+        <mxCell id="Bk_agwm_B3szpJZEiprO-1" parent="Bk_agwm_B3szpJZEiprO-0" />
+        <mxCell id="Bk_agwm_B3szpJZEiprO-2" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;BÁO CÁO - THỐNG KÊ&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Tahoma;" vertex="1" parent="Bk_agwm_B3szpJZEiprO-1">
+          <mxGeometry x="10" y="9" width="210" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
