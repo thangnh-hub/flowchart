@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T01:44:25.936Z" agent="5.0 (Windows)" etag="BC0549pT1iCIzlrjPFLd" version="14.9.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-23T01:55:38.866Z" agent="5.0 (Windows)" etag="H-sxADGMUdbF6tsdh3gi" version="14.9.2" type="github" pages="7">
   <diagram id="kXhTDbPVGtVAny8RVcD5" name="20210603">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,9 +72,6 @@
         </mxCell>
         <mxCell id="MRNussQx1WXhMdbqrWJ8-1" value="Quản lý văn bằng" style="rounded=1;whiteSpace=wrap;html=1;" parent="8RbCKLBBjErQw8_L0lg_-1" vertex="1">
           <mxGeometry x="360" y="480" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MRNussQx1WXhMdbqrWJ8-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Tuyển sinh&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Tạo form chọn nhập học cho phép tìm kiếm thông tin và get vào nhập liệu&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Giữ nguyên thông tin sinh viên trong bảng tiềm năng&lt;/p&gt;&lt;p&gt;- Trạng thái sinh viên phải đc cập nhật tự động&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="8RbCKLBBjErQw8_L0lg_-1" vertex="1">
-          <mxGeometry x="360" y="560" width="300" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -199,6 +196,9 @@
         </mxCell>
         <mxCell id="2dY7rQQ19TN3GJ5qBxpc-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Chức năng&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Import sinh viên tiềm năng&lt;/p&gt;&lt;p&gt;- Import sinh viên&lt;/p&gt;&lt;p&gt;- Chi tiết sinh viên:&lt;/p&gt;&lt;p&gt;&amp;nbsp; + Cập nhật hạng mục HSSV&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;font color=&quot;#006600&quot;&gt;+ Cập nhật kiểu đối tượng chính sách&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="40" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="su9A46t0DeTEI5qy52GZ-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Tuyển sinh&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Tạo form chọn nhập học cho phép tìm kiếm thông tin và get vào nhập liệu&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Giữ nguyên thông tin sinh viên trong bảng tiềm năng&lt;/p&gt;&lt;p&gt;- Trạng thái sinh viên phải đc cập nhật tự động&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="445" width="300" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -453,19 +453,19 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="YDh6wq3bV76s0gbqAnPu" name="ĐIỂM - XẾP LOẠI">
-    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="IRVYS8GNCzHvz7j71HMG-0" />
-        <mxCell id="IRVYS8GNCzHvz7j71HMG-1" parent="IRVYS8GNCzHvz7j71HMG-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="uZYffb5eXd-upejTjZHZ" name="TỔ CHỨC THI">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kKzyDXjO6jPB7J8Ih3gD-0" />
         <mxCell id="kKzyDXjO6jPB7J8Ih3gD-1" parent="kKzyDXjO6jPB7J8Ih3gD-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YDh6wq3bV76s0gbqAnPu" name="ĐIỂM - XẾP LOẠI">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="IRVYS8GNCzHvz7j71HMG-0" />
+        <mxCell id="IRVYS8GNCzHvz7j71HMG-1" parent="IRVYS8GNCzHvz7j71HMG-0" />
       </root>
     </mxGraphModel>
   </diagram>
