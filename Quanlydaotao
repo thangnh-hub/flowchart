@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T10:23:07.401Z" agent="5.0 (Windows)" etag="gtyadOvISLsBiM4Vfwsh" version="14.9.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-07-24T10:25:20.119Z" agent="5.0 (Windows)" etag="6PFubMY2muLtFES5dGKt" version="14.9.2" type="github" pages="8">
   <diagram id="kXhTDbPVGtVAny8RVcD5" name="Tiến độ chung">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,6 +72,23 @@
         </mxCell>
         <mxCell id="xs-m9ELBInv8AVRgBYDo-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Ghi chú&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Để đảm bảo việc đưa hệ thống lên môi trường test trước thời hạn, sẽ tiến hành tổng duyệt lại các khối module độc lập nhằm đóng gói các module và gửi cho khách hàng test từng phần&lt;/p&gt;&lt;p&gt;- Hệ thống các module liên quan:&lt;/p&gt;&lt;p&gt;- Tuyển sinh - thông tin sinh viên&lt;/p&gt;&lt;p&gt;- Phân lớp cho sinh viên và giáo viên&lt;/p&gt;&lt;p&gt;- Quản lý môn học, chương trình học&lt;/p&gt;&lt;p&gt;- Tài chính - thu tiền nhập học - tuyển sinh&lt;/p&gt;&lt;p&gt;- Quản lý về điểm danh&lt;/p&gt;&lt;p&gt;- Quản lý điểm &lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý tổ chức thi&lt;/p&gt;&lt;p&gt;- Quản lý cơ sở vật chất, danh mục liên quan&lt;/p&gt;&lt;p&gt;- In ấn bảng biểu, mẫu phiếu&lt;/p&gt;&lt;p&gt;- Thống kê - Báo cáo&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;dashed=1;" vertex="1" parent="8RbCKLBBjErQw8_L0lg_-1">
           <mxGeometry x="640" y="10" width="300" height="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YOxeGoi_UZ1TDgd_iKHE" name="Thời khóa biểu">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="wlVJQ4r7YzVPQCw6Ed-b-0" />
+        <mxCell id="wlVJQ4r7YzVPQCw6Ed-b-1" parent="wlVJQ4r7YzVPQCw6Ed-b-0" />
+        <mxCell id="52RIXxLck5FkLynaxhoZ-0" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;THỜI KHÓA BIỂU&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Tahoma;" parent="wlVJQ4r7YzVPQCw6Ed-b-1" vertex="1">
+          <mxGeometry x="20" y="20" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3BXPeLPTBax941uppMh-0" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Tiến độ: 90%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="wlVJQ4r7YzVPQCw6Ed-b-1" vertex="1">
+          <mxGeometry x="20" y="60" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CSI5qhEyFichxU2rk0vr-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Chức năng&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Hệ thống tạo thời khóa biểu hiện tại hoạt động độc lập và sử dụng chung DB với hệ thống quản lý đào tạo&lt;/p&gt;&lt;p&gt;- Các nội dung quản lý cần đối soát lại để cập nhật các bảng thông tin còn thiểu (Long chủ động bổ sung)&lt;/p&gt;&lt;p&gt;- Tạo các module CRUD và cập nhật thông tin trên hệ thống quản lý đào tạo để đồng bộ với các bảng dữ liệu trên hệ thống thời khóa biểu&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;dashed=1;" vertex="1" parent="wlVJQ4r7YzVPQCw6Ed-b-1">
+          <mxGeometry x="20" y="120" width="300" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -436,23 +453,6 @@
         </mxCell>
         <mxCell id="hhtreUBvdQSkgaSBcIqC-0" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Tiến độ: 75%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="fAs2uiH12eTAqGDmfKWc-1" vertex="1">
           <mxGeometry x="20" y="60" width="90" height="20" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="YOxeGoi_UZ1TDgd_iKHE" name="Thời khóa biểu">
-    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="wlVJQ4r7YzVPQCw6Ed-b-0" />
-        <mxCell id="wlVJQ4r7YzVPQCw6Ed-b-1" parent="wlVJQ4r7YzVPQCw6Ed-b-0" />
-        <mxCell id="52RIXxLck5FkLynaxhoZ-0" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;THỜI KHÓA BIỂU&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Tahoma;" parent="wlVJQ4r7YzVPQCw6Ed-b-1" vertex="1">
-          <mxGeometry x="20" y="20" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Y3BXPeLPTBax941uppMh-0" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Tiến độ: 90%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="wlVJQ4r7YzVPQCw6Ed-b-1" vertex="1">
-          <mxGeometry x="20" y="60" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CSI5qhEyFichxU2rk0vr-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Chức năng&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Hệ thống tạo thời khóa biểu hiện tại hoạt động độc lập và sử dụng chung DB với hệ thống quản lý đào tạo&lt;/p&gt;&lt;p&gt;- Các nội dung quản lý cần đối soát lại để cập nhật các bảng thông tin còn thiểu (Long chủ động bổ sung)&lt;/p&gt;&lt;p&gt;- Tạo các module CRUD và cập nhật thông tin trên hệ thống quản lý đào tạo để đồng bộ với các bảng dữ liệu trên hệ thống thời khóa biểu&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;dashed=1;" vertex="1" parent="wlVJQ4r7YzVPQCw6Ed-b-1">
-          <mxGeometry x="20" y="120" width="300" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
