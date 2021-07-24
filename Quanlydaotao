@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T10:17:22.436Z" agent="5.0 (Windows)" etag="O20tinSKQNVTpJw7m5Kf" version="14.9.2" type="github" pages="8">
-  <diagram id="kXhTDbPVGtVAny8RVcD5" name="20210603">
+<mxfile host="app.diagrams.net" modified="2021-07-24T10:23:07.401Z" agent="5.0 (Windows)" etag="gtyadOvISLsBiM4Vfwsh" version="14.9.2" type="github" pages="8">
+  <diagram id="kXhTDbPVGtVAny8RVcD5" name="Tiến độ chung">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8RbCKLBBjErQw8_L0lg_-0" />
@@ -76,7 +76,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="TUYỂN SINH">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Tuyển sinh">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -194,11 +194,11 @@
         <mxCell id="5xHv7L9HXpmBRiO-twZI-0" value="Phòng Tài chính" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="730" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2dY7rQQ19TN3GJ5qBxpc-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Chức năng&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Import sinh viên tiềm năng&lt;/p&gt;&lt;p&gt;- Import sinh viên&lt;/p&gt;&lt;p&gt;- Chi tiết sinh viên:&lt;/p&gt;&lt;p&gt;&amp;nbsp; + Cập nhật hạng mục HSSV&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;font color=&quot;#006600&quot;&gt;+ Cập nhật kiểu đối tượng chính sách&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="120" width="220" height="200" as="geometry" />
+        <mxCell id="2dY7rQQ19TN3GJ5qBxpc-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Chức năng&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Import sinh viên tiềm năng&lt;/p&gt;&lt;p&gt;- Import sinh viên&lt;/p&gt;&lt;p&gt;- Chi tiết sinh viên:&lt;/p&gt;&lt;p&gt;&amp;nbsp; + Cập nhật hạng mục HSSV&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;font color=&quot;#006600&quot;&gt;+ Cập nhật kiểu đối tượng chính sách&lt;/font&gt;&lt;/p&gt;&lt;p&gt;- In các mẫu biểu phiếu nhập học, phiếu thu - nộp phí&lt;/p&gt;&lt;p&gt;- Cập nhật thông tin sinh viên dạng tab&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;fillColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="120" width="220" height="240" as="geometry" />
         </mxCell>
         <mxCell id="su9A46t0DeTEI5qy52GZ-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Tuyển sinh&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Tạo form chọn nhập học cho phép tìm kiếm thông tin và get vào nhập liệu&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Giữ nguyên thông tin sinh viên trong bảng tiềm năng&lt;/p&gt;&lt;p&gt;- Trạng thái sinh viên phải đc cập nhật tự động&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="360" width="220" height="155" as="geometry" />
+          <mxGeometry x="20" y="400" width="220" height="155" as="geometry" />
         </mxCell>
         <mxCell id="aAnXRuT8_AGTeX1aZ5EL-0" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Tiến độ: 75%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="60" width="90" height="20" as="geometry" />
@@ -206,7 +206,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="gnVKHGVcLS-c2oTlncmX" name="TÀI CHÍNH">
+  <diagram id="gnVKHGVcLS-c2oTlncmX" name="Tài chính">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="fAs2uiH12eTAqGDmfKWc-0" />
@@ -440,7 +440,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="YOxeGoi_UZ1TDgd_iKHE" name="THỜI KHÓA BIỂU">
+  <diagram id="YOxeGoi_UZ1TDgd_iKHE" name="Thời khóa biểu">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="wlVJQ4r7YzVPQCw6Ed-b-0" />
@@ -451,10 +451,13 @@
         <mxCell id="Y3BXPeLPTBax941uppMh-0" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Tiến độ: 90%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="wlVJQ4r7YzVPQCw6Ed-b-1" vertex="1">
           <mxGeometry x="20" y="60" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="CSI5qhEyFichxU2rk0vr-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Chức năng&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Hệ thống tạo thời khóa biểu hiện tại hoạt động độc lập và sử dụng chung DB với hệ thống quản lý đào tạo&lt;/p&gt;&lt;p&gt;- Các nội dung quản lý cần đối soát lại để cập nhật các bảng thông tin còn thiểu (Long chủ động bổ sung)&lt;/p&gt;&lt;p&gt;- Tạo các module CRUD và cập nhật thông tin trên hệ thống quản lý đào tạo để đồng bộ với các bảng dữ liệu trên hệ thống thời khóa biểu&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;dashed=1;" vertex="1" parent="wlVJQ4r7YzVPQCw6Ed-b-1">
+          <mxGeometry x="20" y="120" width="300" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="8NvrEH70BR34MD9IPG88" name="LỚP HỌC - ĐIỂM DANH">
+  <diagram id="8NvrEH70BR34MD9IPG88" name="Lớp - điểm danh">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LUKWZDq96D697sPrwJXt-0" />
@@ -531,7 +534,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="uZYffb5eXd-upejTjZHZ" name="TỔ CHỨC THI">
+  <diagram id="uZYffb5eXd-upejTjZHZ" name="Tổ chức thi">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kKzyDXjO6jPB7J8Ih3gD-0" />
@@ -641,7 +644,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="YDh6wq3bV76s0gbqAnPu" name="ĐIỂM - XẾP LOẠI">
+  <diagram id="YDh6wq3bV76s0gbqAnPu" name="Điểm - xếp loại">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IRVYS8GNCzHvz7j71HMG-0" />
@@ -751,7 +754,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="JlZE00M3St7oi1X5hviJ" name="BÁO CÁO">
+  <diagram id="JlZE00M3St7oi1X5hviJ" name="Báo cáo">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Bk_agwm_B3szpJZEiprO-0" />
