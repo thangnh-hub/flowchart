@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T07:13:24.348Z" agent="5.0 (Windows)" etag="fqPbVtEelGsqQcvH_ZQv" version="14.9.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-07-26T07:14:51.406Z" agent="5.0 (Windows)" etag="Xxevqn_PVZUP0raErSud" version="14.9.2" type="github" pages="8">
   <diagram id="kXhTDbPVGtVAny8RVcD5" name="Tiến độ chung">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -220,13 +220,13 @@
         <mxCell id="aAnXRuT8_AGTeX1aZ5EL-0" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Tiến độ: 75%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="60" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="njVvhoieiLzwA63uVrh5-0" value="Danh mục hssv - hệ đào tạo" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="njVvhoieiLzwA63uVrh5-0" value="Danh mục hssv - hệ đào tạo" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="120" width="240" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="njVvhoieiLzwA63uVrh5-1" value="Id hệ đào tạo" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" vertex="1" parent="njVvhoieiLzwA63uVrh5-0">
+        <mxCell id="njVvhoieiLzwA63uVrh5-1" value="Id hệ đào tạo" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="njVvhoieiLzwA63uVrh5-0">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="njVvhoieiLzwA63uVrh5-2" value="Id mã hạng mục hssv" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" vertex="1" parent="njVvhoieiLzwA63uVrh5-0">
+        <mxCell id="njVvhoieiLzwA63uVrh5-2" value="Id mã hạng mục hssv" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fillColor=#ffffff;" vertex="1" parent="njVvhoieiLzwA63uVrh5-0">
           <mxGeometry y="52" width="240" height="26" as="geometry" />
         </mxCell>
       </root>
