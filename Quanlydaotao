@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T08:14:30.600Z" agent="5.0 (Windows)" etag="WwLKMtasYF2piE2Juaso" version="14.9.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-07-26T13:55:43.484Z" agent="5.0 (Windows)" etag="P3YNqSAK2Hpza0pzrEX6" version="14.9.2" type="github" pages="8">
   <diagram id="kXhTDbPVGtVAny8RVcD5" name="Tiến độ chung">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -640,8 +640,8 @@
         <mxCell id="3JV3dYLSTeUN4PdHQRZz-0" value="Bảng điểm - ps_score_detail" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="IRVYS8GNCzHvz7j71HMG-1" vertex="1">
           <mxGeometry x="360" y="120" width="240" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="qyhb4UYwIahS1DSRa4qX-0" value="Bảng tổng kết - ps_score" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="IRVYS8GNCzHvz7j71HMG-1" vertex="1">
-          <mxGeometry x="640" y="120" width="240" height="286" as="geometry" />
+        <mxCell id="qyhb4UYwIahS1DSRa4qX-0" value="Bảng điểm chi tiết - ps_score_detail" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="IRVYS8GNCzHvz7j71HMG-1" vertex="1">
+          <mxGeometry x="640" y="120" width="240" height="312" as="geometry" />
         </mxCell>
         <mxCell id="qyhb4UYwIahS1DSRa4qX-1" value="Id lớp học" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="qyhb4UYwIahS1DSRa4qX-0" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
@@ -672,6 +672,9 @@
         </mxCell>
         <mxCell id="qyhb4UYwIahS1DSRa4qX-14" value="Loại điểm ( HS1, HS2, THI L1, THi L2 )" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="qyhb4UYwIahS1DSRa4qX-0" vertex="1">
           <mxGeometry y="260" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv5vrEizFrjW6g7Olw7A-20" value="Ghi chú" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="qyhb4UYwIahS1DSRa4qX-0" vertex="1">
+          <mxGeometry y="286" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XemY3WICjO7qRMw7DO2f-0" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Tiến độ: 20%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="IRVYS8GNCzHvz7j71HMG-1" vertex="1">
           <mxGeometry x="20" y="60" width="90" height="20" as="geometry" />
@@ -739,8 +742,8 @@
         <mxCell id="Dx9_LiV4xdXXvKpnVHcU-0" value="Ghép chung bảng này vào bảng điểm danh" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="IRVYS8GNCzHvz7j71HMG-1" vertex="1">
           <mxGeometry x="635" y="90" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Sv5vrEizFrjW6g7Olw7A-20" value="Ghi chú" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="IRVYS8GNCzHvz7j71HMG-1" vertex="1">
-          <mxGeometry x="640" y="400" width="240" height="26" as="geometry" />
+        <mxCell id="x7r5co82mnFWzFGmuMza-0" value="Bảng tổng kết - xếp loại" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="IRVYS8GNCzHvz7j71HMG-1">
+          <mxGeometry x="920" y="120" width="240" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
