@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T15:58:17.581Z" agent="5.0 (Windows)" etag="ePNfRm_RchHcLg-yuNia" version="14.9.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-07-30T15:59:39.385Z" agent="5.0 (Windows)" etag="vxp8Yt9L1MYh9uSa8IkW" version="14.9.3" type="github" pages="9">
   <diagram id="kXhTDbPVGtVAny8RVcD5" name="Tiến độ chung">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -548,11 +548,11 @@
         <mxCell id="GIPVh_JDLMbBTVBPiJ_H-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Chức năng&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Cho phép người dùng chọn lọc theo các điều kiện để lấy danh sách sinh viên đủ điều kiện thi và thực hiện tạo danh sách tổ chức thi cho sinh viên&lt;/p&gt;&lt;p&gt;- Giao diện như file word đã thiết kế&lt;/p&gt;&lt;p&gt;- Hiển thị thêm phần điểm chuyên cần, lấy từ bảng điểm danh để kiểm tra điều kiện dự thi&lt;/p&gt;&lt;p&gt;- Hiển thị checkbox auto cho các sinh viên đủ, không đủ điều kiện thi (tiêu chí sẽ bổ sung theo công thức)&lt;/p&gt;&lt;p&gt;- Ấn nút Tổ chức thi: sẽ cập nhật danh sách sinh viên vào bảng ps_exam theo các thông tin tương ứng và sử dụng bảng này cho việc in ra danh sách, nhập điểm theo số phách,... liên quan đến tổ chức thi&lt;/p&gt;&lt;p&gt;- Các bước lấy và tạo mới dữ liệu khi nhấn nút Lấy danh sách thực hiện theo tham khảo ở chức năng lấy danh sách điểm danh của module Điểm danh&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="kKzyDXjO6jPB7J8Ih3gD-1" vertex="1">
           <mxGeometry x="20" y="120" width="300" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="HiKvZS-0RTTFc7uhblUc-0" value="&lt;div align=&quot;left&quot;&gt;Nghiên cứu trao đổi phần ghép bảng này&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="kKzyDXjO6jPB7J8Ih3gD-1" vertex="1">
-          <mxGeometry x="360" y="90" width="240" height="20" as="geometry" />
+        <mxCell id="HiKvZS-0RTTFc7uhblUc-0" value="ps_exam_room" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" parent="kKzyDXjO6jPB7J8Ih3gD-1" vertex="1">
+          <mxGeometry x="360" y="90" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HiKvZS-0RTTFc7uhblUc-1" value="Bảng Sinh viên dự thi" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="kKzyDXjO6jPB7J8Ih3gD-1" vertex="1">
-          <mxGeometry x="640" y="120" width="240" height="208" as="geometry" />
+          <mxGeometry x="680" y="120" width="240" height="208" as="geometry" />
         </mxCell>
         <mxCell id="HiKvZS-0RTTFc7uhblUc-4" value="Id sinh viên" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="HiKvZS-0RTTFc7uhblUc-1" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
@@ -622,6 +622,9 @@
         </mxCell>
         <mxCell id="qMPjfa2GjP61lfJXr5G7-14" value="Ghi chú" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="qMPjfa2GjP61lfJXr5G7-0" vertex="1">
           <mxGeometry y="338" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Kvq3Jxh8xCoLtzIA84lI-0" value="ps_exam_student" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" vertex="1" parent="kKzyDXjO6jPB7J8Ih3gD-1">
+          <mxGeometry x="680" y="90" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
