@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T08:25:22.541Z" agent="5.0 (Windows)" etag="jCp3z4qHNI1YaWJ1itP0" version="14.9.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-08-10T08:29:19.194Z" agent="5.0 (Windows)" etag="sS5rdkWsBXCA9La0lqQz" version="14.9.5" type="github" pages="9">
   <diagram id="kXhTDbPVGtVAny8RVcD5" name="Tiến độ chung">
     <mxGraphModel dx="1662" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -647,7 +647,7 @@
           <mxGeometry x="360" y="120" width="240" height="52" as="geometry" />
         </mxCell>
         <mxCell id="qyhb4UYwIahS1DSRa4qX-0" value="Bảng điểm chi tiết - ps_score_detail" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="IRVYS8GNCzHvz7j71HMG-1" vertex="1">
-          <mxGeometry x="640" y="120" width="240" height="312" as="geometry" />
+          <mxGeometry x="640" y="120" width="240" height="364" as="geometry" />
         </mxCell>
         <mxCell id="qyhb4UYwIahS1DSRa4qX-1" value="Id lớp học" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="qyhb4UYwIahS1DSRa4qX-0" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
@@ -682,6 +682,12 @@
         <mxCell id="Sv5vrEizFrjW6g7Olw7A-20" value="Ghi chú" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="qyhb4UYwIahS1DSRa4qX-0" vertex="1">
           <mxGeometry y="286" width="240" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="pqBkMuq0ymCl9jOpM65s-12" value="id học kỳ" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" vertex="1" parent="qyhb4UYwIahS1DSRa4qX-0">
+          <mxGeometry y="312" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pqBkMuq0ymCl9jOpM65s-26" value="id năm học" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" vertex="1" parent="qyhb4UYwIahS1DSRa4qX-0">
+          <mxGeometry y="338" width="240" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="XemY3WICjO7qRMw7DO2f-0" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Tiến độ: 20%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="IRVYS8GNCzHvz7j71HMG-1" vertex="1">
           <mxGeometry x="20" y="60" width="90" height="20" as="geometry" />
         </mxCell>
@@ -692,7 +698,7 @@
           <mxGeometry x="630" y="90" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sv5vrEizFrjW6g7Olw7A-0" value="Bảng điểm - điểm danh" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="IRVYS8GNCzHvz7j71HMG-1" vertex="1">
-          <mxGeometry x="360" y="120" width="240" height="468" as="geometry" />
+          <mxGeometry x="360" y="120" width="240" height="520" as="geometry" />
         </mxCell>
         <mxCell id="Sv5vrEizFrjW6g7Olw7A-1" value="Id lớp học" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Sv5vrEizFrjW6g7Olw7A-0" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
@@ -744,6 +750,12 @@
         </mxCell>
         <mxCell id="Sv5vrEizFrjW6g7Olw7A-19" value="Ghi chú" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Sv5vrEizFrjW6g7Olw7A-0" vertex="1">
           <mxGeometry y="442" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pqBkMuq0ymCl9jOpM65s-27" value="id học kỳ" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" vertex="1" parent="Sv5vrEizFrjW6g7Olw7A-0">
+          <mxGeometry y="468" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pqBkMuq0ymCl9jOpM65s-28" value="id năm học" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" vertex="1" parent="Sv5vrEizFrjW6g7Olw7A-0">
+          <mxGeometry y="494" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Dx9_LiV4xdXXvKpnVHcU-0" value="Ghép chung bảng này vào bảng điểm danh" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="IRVYS8GNCzHvz7j71HMG-1" vertex="1">
           <mxGeometry x="360" y="90" width="250" height="20" as="geometry" />
