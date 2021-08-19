@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T02:40:03.296Z" agent="5.0 (Windows)" etag="XgJugMJ_yzXby6wnQl6n" version="14.9.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-08-19T10:56:16.369Z" agent="5.0 (Windows)" etag="CIbjNvPj7MmYJ3uFq0hj" version="14.9.7" type="github" pages="10">
   <diagram id="kXhTDbPVGtVAny8RVcD5" name="Tiến độ chung">
     <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1032,7 +1032,7 @@
           <mxGeometry y="234" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-35" value="Chi tiết phòng thi tốt nghiệp" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Bk_agwm_B3szpJZEiprO-1" vertex="1">
-          <mxGeometry x="720" y="80" width="200" height="104" as="geometry" />
+          <mxGeometry x="720" y="80" width="200" height="182" as="geometry" />
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-36" value="Id phòng thi" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Z5WSEgIXYILIrCEYBvua-35" vertex="1">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
@@ -1042,6 +1042,15 @@
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-38" value="Số báo danh" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Z5WSEgIXYILIrCEYBvua-35" vertex="1">
           <mxGeometry y="78" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="78D3Yf9uU_2x9VN0BOVQ-3" value="Số đề thi" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" vertex="1" parent="Z5WSEgIXYILIrCEYBvua-35">
+          <mxGeometry y="104" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="78D3Yf9uU_2x9VN0BOVQ-4" value="Số phách" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" vertex="1" parent="Z5WSEgIXYILIrCEYBvua-35">
+          <mxGeometry y="130" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="78D3Yf9uU_2x9VN0BOVQ-5" value="Điểm thi" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" vertex="1" parent="Z5WSEgIXYILIrCEYBvua-35">
+          <mxGeometry y="156" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Bk_agwm_B3szpJZEiprO-1" source="Z5WSEgIXYILIrCEYBvua-36" target="Z5WSEgIXYILIrCEYBvua-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
