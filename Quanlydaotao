@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T10:56:16.369Z" agent="5.0 (Windows)" etag="CIbjNvPj7MmYJ3uFq0hj" version="14.9.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-08-19T14:17:24.906Z" agent="5.0 (Windows)" etag="tgQWpS_cSwkGT5l3Potv" version="14.9.7" type="github" pages="10">
   <diagram id="kXhTDbPVGtVAny8RVcD5" name="Tiến độ chung">
     <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1016,7 +1016,7 @@
         <mxCell id="Z5WSEgIXYILIrCEYBvua-29" value="Loại (Điều kiện: 1; lý thuyết: 2,  thực hành: 3 )" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Z5WSEgIXYILIrCEYBvua-24" vertex="1">
           <mxGeometry y="104" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="DDfkEAIe6N0jx8NARP5n-0" value="Tên phòng thi" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="Z5WSEgIXYILIrCEYBvua-24">
+        <mxCell id="DDfkEAIe6N0jx8NARP5n-0" value="Tên phòng thi" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="Z5WSEgIXYILIrCEYBvua-24">
           <mxGeometry y="130" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-30" value="Thời lượng" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Z5WSEgIXYILIrCEYBvua-24" vertex="1">
