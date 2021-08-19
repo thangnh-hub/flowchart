@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T02:25:22.129Z" agent="5.0 (Windows)" etag="4I5rV7dS4q39BI8evR5g" version="14.9.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-08-19T02:40:03.296Z" agent="5.0 (Windows)" etag="XgJugMJ_yzXby6wnQl6n" version="14.9.7" type="github" pages="10">
   <diagram id="kXhTDbPVGtVAny8RVcD5" name="Tiến độ chung">
     <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1093,6 +1093,24 @@
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-65" value="&lt;div style=&quot;font-size: 13px&quot; align=&quot;justify&quot;&gt;Điểm xếp loại tốt nghiệp = ( 3.ĐTB + 2.ĐTNTH + ĐTNLT ) / 6&lt;br&gt;&lt;br&gt;3. Xếp loại tốt nghiệp của người học được căn cứ vào điểm xếp loại tốt nghiệp và tính theo thang điểm 10 như sau:&lt;br&gt;a) Loại xuất sắc: điểm xếp loại tốt nghiệp từ 9,0 đến 10;&lt;br&gt;b) Loại giỏi: điểm xếp loại tốt nghiệp từ 8,0 đến 8,9;&lt;br&gt;c) Loại khá: điểm xếp loại tốt nghiệp từ 7,0 đến 7,9;&lt;br&gt;d) Loại trung bình khá: điểm xếp loại tốt nghiệp từ 6,0 đến 6,9;&lt;br&gt;e) Loại trung bình: điểm xếp loại tốt nghiệp từ 5,0 đến 5,9.&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=#000000;dashed=1;align=left;rounded=0;shadow=0;perimeterSpacing=0;" parent="Bk_agwm_B3szpJZEiprO-1" vertex="1">
           <mxGeometry x="20" y="360" width="460" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DDfkEAIe6N0jx8NARP5n-1" value="ps_graduation_exam" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Bk_agwm_B3szpJZEiprO-1">
+          <mxGeometry x="250" y="50" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DDfkEAIe6N0jx8NARP5n-3" value="ps_graduation_internship" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Bk_agwm_B3szpJZEiprO-1">
+          <mxGeometry x="35" y="50" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DDfkEAIe6N0jx8NARP5n-4" value="ps_graduation_room" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Bk_agwm_B3szpJZEiprO-1">
+          <mxGeometry x="500" y="50" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DDfkEAIe6N0jx8NARP5n-5" value="ps_graduation_room_detail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Bk_agwm_B3szpJZEiprO-1">
+          <mxGeometry x="740" y="50" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DDfkEAIe6N0jx8NARP5n-7" value="ps_graduation_score" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Bk_agwm_B3szpJZEiprO-1">
+          <mxGeometry x="1015" y="50" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DDfkEAIe6N0jx8NARP5n-8" value="ps_graduation_score_summary" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Bk_agwm_B3szpJZEiprO-1">
+          <mxGeometry x="1255" y="50" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
