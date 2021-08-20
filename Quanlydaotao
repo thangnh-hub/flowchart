@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-20T07:25:03.996Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="TzSEiZNn5-DDSU1S5cJN" version="14.9.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-08-20T07:27:14.790Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="9JKntKqNfJIiYRYJKqXj" version="14.9.8" type="github" pages="10">
   <diagram id="kXhTDbPVGtVAny8RVcD5" name="Tiến độ chung">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1080,28 +1080,31 @@
           <mxGeometry y="182" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-57" value="Bảng tổng hợp điểm tốt nghiệp" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Bk_agwm_B3szpJZEiprO-1" vertex="1">
-          <mxGeometry x="1240" y="80" width="210" height="208" as="geometry" />
+          <mxGeometry x="1240" y="80" width="270" height="234" as="geometry" />
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-58" value="Id sinh viên" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Z5WSEgIXYILIrCEYBvua-57" vertex="1">
-          <mxGeometry y="26" width="210" height="26" as="geometry" />
+          <mxGeometry y="26" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Z5WSEgIXYILIrCEYBvua-59" value="Điểm trung bình các môn học&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Z5WSEgIXYILIrCEYBvua-57" vertex="1">
-          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        <mxCell id="Z5WSEgIXYILIrCEYBvua-59" value="Điểm trung bình các môn học (Thành bổ xung)&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Z5WSEgIXYILIrCEYBvua-57" vertex="1">
+          <mxGeometry y="52" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="warnRUdfD-9_G8Wc5Oxp-2" value="Điểm trung bình các môn học&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" vertex="1" parent="Z5WSEgIXYILIrCEYBvua-57">
+          <mxGeometry y="78" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="warnRUdfD-9_G8Wc5Oxp-0" value="Điểm điều kiện" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" vertex="1" parent="Z5WSEgIXYILIrCEYBvua-57">
-          <mxGeometry y="78" width="210" height="26" as="geometry" />
+          <mxGeometry y="104" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-60" value="Điểm lý thuyết" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Z5WSEgIXYILIrCEYBvua-57" vertex="1">
-          <mxGeometry y="104" width="210" height="26" as="geometry" />
+          <mxGeometry y="130" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-61" value="Điểm thực hành" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Z5WSEgIXYILIrCEYBvua-57" vertex="1">
-          <mxGeometry y="130" width="210" height="26" as="geometry" />
+          <mxGeometry y="156" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-62" value="Điểm trung bình tốt nghiệp" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Z5WSEgIXYILIrCEYBvua-57" vertex="1">
-          <mxGeometry y="156" width="210" height="26" as="geometry" />
+          <mxGeometry y="182" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-63" value="Xếp loại tốt nghiệp" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;dashed=1;fillColor=#ffffff;" parent="Z5WSEgIXYILIrCEYBvua-57" vertex="1">
-          <mxGeometry y="182" width="210" height="26" as="geometry" />
+          <mxGeometry y="208" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Z5WSEgIXYILIrCEYBvua-65" value="&lt;div style=&quot;font-size: 13px&quot; align=&quot;justify&quot;&gt;Điểm xếp loại tốt nghiệp = ( 3.ĐTB + 2.ĐTNTH + ĐTNLT ) / 6&lt;br&gt;&lt;br&gt;3. Xếp loại tốt nghiệp của người học được căn cứ vào điểm xếp loại tốt nghiệp và tính theo thang điểm 10 như sau:&lt;br&gt;a) Loại xuất sắc: điểm xếp loại tốt nghiệp từ 9,0 đến 10;&lt;br&gt;b) Loại giỏi: điểm xếp loại tốt nghiệp từ 8,0 đến 8,9;&lt;br&gt;c) Loại khá: điểm xếp loại tốt nghiệp từ 7,0 đến 7,9;&lt;br&gt;d) Loại trung bình khá: điểm xếp loại tốt nghiệp từ 6,0 đến 6,9;&lt;br&gt;e) Loại trung bình: điểm xếp loại tốt nghiệp từ 5,0 đến 5,9.&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=#000000;dashed=1;align=left;rounded=0;shadow=0;perimeterSpacing=0;" parent="Bk_agwm_B3szpJZEiprO-1" vertex="1">
           <mxGeometry x="20" y="360" width="460" height="160" as="geometry" />
@@ -1123,6 +1126,9 @@
         </mxCell>
         <mxCell id="DDfkEAIe6N0jx8NARP5n-8" value="ps_graduation_score_summary" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="Bk_agwm_B3szpJZEiprO-1" vertex="1">
           <mxGeometry x="1255" y="50" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="warnRUdfD-9_G8Wc5Oxp-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bk_agwm_B3szpJZEiprO-1">
+          <mxGeometry x="1280" y="250" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
