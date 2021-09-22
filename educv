@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T02:39:24.720Z" agent="5.0 (Windows)" etag="x0oBF2qOUQgCYS4XFu8W" version="14.9.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-22T03:33:01.518Z" agent="5.0 (Windows)" etag="pl0li9NuZUhiFd3FbziI" version="14.9.8" type="github" pages="5">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
-    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1427" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="ADwo3EiH_7kxN1RhatKl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ADwo3EiH_7kxN1RhatKl-1" target="ADwo3EiH_7kxN1RhatKl-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ADwo3EiH_7kxN1RhatKl-1" value="Chọn loại tin (tuyển sinh / tuyển dụng)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ADwo3EiH_7kxN1RhatKl-1" value="Chọn loại tin (tuyển sinh du học / XKLĐ)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADwo3EiH_7kxN1RhatKl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ADwo3EiH_7kxN1RhatKl-2" target="ADwo3EiH_7kxN1RhatKl-3">
@@ -82,7 +82,7 @@
         <mxCell id="ADwo3EiH_7kxN1RhatKl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ADwo3EiH_7kxN1RhatKl-9" target="ADwo3EiH_7kxN1RhatKl-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ADwo3EiH_7kxN1RhatKl-9" value="Chọn loại CV (du học, xklđ,...)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ADwo3EiH_7kxN1RhatKl-9" value="Chọn loại CV (du học, xklđ)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ADwo3EiH_7kxN1RhatKl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ADwo3EiH_7kxN1RhatKl-10" target="ADwo3EiH_7kxN1RhatKl-11">
