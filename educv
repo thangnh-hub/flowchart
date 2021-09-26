@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T13:42:05.142Z" agent="5.0 (Windows)" etag="nOaJAwhZKqmFCXM5THpQ" version="15.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-26T15:47:15.749Z" agent="5.0 (Windows)" etag="xvbrEXjReEYRgUBiBIxF" version="15.3.1" type="github" pages="7">
   <diagram id="XLpFQNhst5FPmKK7WtKT" name="Ghi chú tài liệu">
     <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -429,8 +429,47 @@
         <mxCell id="5l3peV9dle7mCoq4JlIz-0" value="&lt;h1&gt;System DB&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Bao gồm các bảng liên quan đến vận hành và cấu hình tham số hệ thống:&lt;/p&gt;&lt;p&gt;- Quản lý Menu - Để sau&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý page - là biến hằng số khai báo&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý khối blog&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý người dùng Admin&lt;/p&gt;&lt;p&gt;- Quản lý phân quyền&lt;/p&gt;&lt;p&gt;- Quản lý lịch sử thao tác (nghiên cứu để có thể dùng chung với Front-End)&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Định nghĩa các chức năng, sub chức năng&lt;/p&gt;&lt;p&gt;- Các bảng danh mục dùng chung: quốc gia, tỉnh thành, quận huyện,... &lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
           <mxGeometry x="20" y="40" width="220" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="5l3peV9dle7mCoq4JlIz-1" value="&lt;h1&gt;Application DB&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Bao gồm các bảng liên quan đến hệ thống ứng dụng cho từng project:&lt;/p&gt;&lt;p&gt;- Quản lý Người dùng Front-End&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý CV&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý Tin đăng&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý Gói dịch vụ&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý Ngành nghề&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý lịch sử thao tác&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Các bảng quan hệ trung gian,... &lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
-          <mxGeometry x="20" y="440" width="220" height="320" as="geometry" />
+        <mxCell id="5l3peV9dle7mCoq4JlIz-1" value="&lt;h1&gt;Application DB&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Bao gồm các bảng liên quan đến hệ thống ứng dụng cho từng project:&lt;/p&gt;&lt;p&gt;- Quản lý Người dùng Front-End&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý CV&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý Tin đăng&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý Gói dịch vụ&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý Ngành nghề&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý lịch sử thao tác&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Các bảng quan hệ trung gian,... &lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý danh mục bài viết&lt;/p&gt;&lt;p&gt;- Quản lý bài viết&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
+          <mxGeometry x="20" y="440" width="220" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-0" value="tb_options" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="h9vmGm1mbBo84RV_UCD7-1">
+          <mxGeometry x="320" y="40" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-1" value="id (integer)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-0">
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-2" value="option_name (varchar - unique)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-0">
+          <mxGeometry y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-3" value="option_value (longtext)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-0">
+          <mxGeometry y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-4" value="autoload (boolean)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-0">
+          <mxGeometry y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-5" value="tb_logs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="h9vmGm1mbBo84RV_UCD7-1">
+          <mxGeometry x="520" y="40" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-6" value="id (integer)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-5">
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-7" value="timestamp (datetime)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-5">
+          <mxGeometry y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-8" value="user_id (bigint)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-5">
+          <mxGeometry y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-9" value="url_referer (text)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-5">
+          <mxGeometry y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-10" value="url (text)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-5">
+          <mxGeometry y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-12" value="method (varchar)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-5">
+          <mxGeometry y="180" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSlEo3M_KBSrygS8Ri8y-13" value="params (text)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-5">
+          <mxGeometry y="210" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
