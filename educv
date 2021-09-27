@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T04:15:27.914Z" agent="5.0 (Windows)" etag="qq7mBnA1uo7QDzcjQwJt" version="15.3.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-27T05:16:43.519Z" agent="5.0 (Windows)" etag="IayTU9x_UKkOUl4Bcre9" version="15.3.4" type="github" pages="7">
   <diagram id="XLpFQNhst5FPmKK7WtKT" name="Ghi chú tài liệu">
     <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1305,6 +1305,12 @@
         </mxCell>
         <mxCell id="JSdY5ckUt87o0z8qJVw2-0" value="&lt;h1&gt;Issues - Solutions&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;i&gt;Bao gồm các nội dung ghi chú cho việc xử lý hệ thống hoặc update phiên bản:&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Issues - languages - localization:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Xử lý ngôn ngữ theo dạng file config, array và mã các thành phần như: quốc gia, tỉnh thành, ngành nghề,...&lt;/p&gt;&lt;p&gt;- Vấn đề gặp phải của phần ngôn ngữ là linh động trong DB thì sẽ giới hạn và phụ thuộc vào số trường dữ liệu, custom câu truy vấn gặp khó khăn&lt;/p&gt;&lt;p&gt;- Việc áp dụng file config array language chỉ phù hợp với các nội dung cố định, trường hợp linh động như bài viết, menu, danh mục,... sẽ không xử lý được&lt;/p&gt;&lt;p&gt;&lt;b&gt;Solution - languages - localization:&lt;/b&gt; &lt;br&gt;&lt;/p&gt;&lt;p&gt;- Tách với mỗi bảng cần locale thêm 1 bảng {tên bảng chính}_{mã locale} lưu các thông tin: id_relation, locale_code, title, description, content,...&lt;/p&gt;&lt;p&gt;- Query sẽ check theo 2 bảng này để lấy ra thông tin&lt;/p&gt;&lt;p&gt;- Đối với các dữ liệu cố định ít thay đổi, tạm thời vẫn dùng DB - có thể nghiên cứu thêm cho việc dùng config file để tối ưu tốc độ (ưu tiên sau)&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" vertex="1" parent="GdTiG-v3qQc8l7YeO0QA-1">
           <mxGeometry x="40" y="40" width="280" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="yMccqtZedKW7qFxUu8bF-0" value="Middleware" style="whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=default;" vertex="1" parent="GdTiG-v3qQc8l7YeO0QA-1">
+          <mxGeometry x="360" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yMccqtZedKW7qFxUu8bF-1" value="Authentication" style="whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=default;" vertex="1" parent="GdTiG-v3qQc8l7YeO0QA-1">
+          <mxGeometry x="560" y="400" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
