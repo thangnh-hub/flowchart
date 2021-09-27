@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T03:41:30.337Z" agent="5.0 (Windows)" etag="ZZGPpu5ajEjm3C0FeGpU" version="15.3.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-27T04:01:02.731Z" agent="5.0 (Windows)" etag="Xnx6I4yEsb_xMB_o-7y3" version="15.3.4" type="github" pages="7">
   <diagram id="XLpFQNhst5FPmKK7WtKT" name="Ghi chú tài liệu">
-    <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="VPK-Gex5RwaswUKGYIEz-0" />
         <mxCell id="VPK-Gex5RwaswUKGYIEz-1" parent="VPK-Gex5RwaswUKGYIEz-0" />
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
-    <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1302,6 +1302,9 @@
         </mxCell>
         <mxCell id="H7AAqJmOKPOhPwf7ODmI-46" value="res" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GdTiG-v3qQc8l7YeO0QA-1">
           <mxGeometry x="185" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSdY5ckUt87o0z8qJVw2-0" value="&lt;h1&gt;Issues - Solutions&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Bao gồm các nội dung ghi chú cho việc xử lý hệ thống hoặc update phiên bản:&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Xử lý ngôn ngữ theo dạng file config, array và mã các thành phần như: quốc gia, tỉnh thành, ngành nghề,...&lt;/p&gt;&lt;p&gt;- Vấn đề gặp phải của phần ngôn ngữ là linh động trong DB thì sẽ giới hạn và phụ thuộc vào số trường dữ liệu, custom câu truy vấn gặp khó khăn&lt;/p&gt;&lt;p&gt;- Việc áp dụng file config array language chỉ phù hợp với các nội dung cố định, trường hợp linh động như bài viết, menu, danh mục,... sẽ không xử lý được&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" vertex="1" parent="GdTiG-v3qQc8l7YeO0QA-1">
+          <mxGeometry x="20" y="440" width="220" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
