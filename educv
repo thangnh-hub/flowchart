@@ -1,12 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T05:16:43.519Z" agent="5.0 (Windows)" etag="IayTU9x_UKkOUl4Bcre9" version="15.3.4" type="github" pages="7">
-  <diagram id="XLpFQNhst5FPmKK7WtKT" name="Ghi chú tài liệu">
-    <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="VPK-Gex5RwaswUKGYIEz-0" />
-        <mxCell id="VPK-Gex5RwaswUKGYIEz-1" parent="VPK-Gex5RwaswUKGYIEz-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2021-09-27T09:31:59.360Z" agent="5.0 (Windows)" etag="mB5Q8mvFS6B0szAv9_K9" version="15.3.4" type="github" pages="6">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -341,81 +333,81 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cUD9KI47mRpiztktptr5" name="Việc làm - tuyển sinh">
-    <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="F4DFFR-r4xgL-Ta9TsYS-0" />
         <mxCell id="F4DFFR-r4xgL-Ta9TsYS-1" parent="F4DFFR-r4xgL-Ta9TsYS-0" />
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-1" target="KTPN0g-FfG-mgfaY1a5l-6">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-1" target="KTPN0g-FfG-mgfaY1a5l-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-1" value="Cty tư vấn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F4DFFR-r4xgL-Ta9TsYS-1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-1" value="Cty tư vấn" style="rounded=1;whiteSpace=wrap;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="40" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-4" target="KTPN0g-FfG-mgfaY1a5l-16">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-4" target="KTPN0g-FfG-mgfaY1a5l-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-4" target="KTPN0g-FfG-mgfaY1a5l-6">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-4" target="KTPN0g-FfG-mgfaY1a5l-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-4" value="NTD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F4DFFR-r4xgL-Ta9TsYS-1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-4" value="NTD" style="rounded=1;whiteSpace=wrap;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-6" target="KTPN0g-FfG-mgfaY1a5l-8">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-6" target="KTPN0g-FfG-mgfaY1a5l-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-6" value="Tạo tin đăng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F4DFFR-r4xgL-Ta9TsYS-1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-6" value="Tạo tin đăng" style="rounded=1;whiteSpace=wrap;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-8" target="KTPN0g-FfG-mgfaY1a5l-10">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-8" target="KTPN0g-FfG-mgfaY1a5l-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-8" value="&lt;div&gt;Chọn loại tin&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Du học / XKLĐ)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F4DFFR-r4xgL-Ta9TsYS-1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-8" value="&lt;div&gt;Chọn loại tin&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Du học / XKLĐ)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-10" target="KTPN0g-FfG-mgfaY1a5l-12">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-10" target="KTPN0g-FfG-mgfaY1a5l-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-10" value="&lt;div&gt;Form nhập thông tin tương ứng theo &lt;br&gt;&lt;/div&gt;&lt;div&gt;loại Ctin&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F4DFFR-r4xgL-Ta9TsYS-1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-10" value="&lt;div&gt;Form nhập thông tin tương ứng theo &lt;br&gt;&lt;/div&gt;&lt;div&gt;loại Ctin&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-12" target="KTPN0g-FfG-mgfaY1a5l-15">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-12" target="KTPN0g-FfG-mgfaY1a5l-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-12" value="Chọn mẫu hiển thị" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F4DFFR-r4xgL-Ta9TsYS-1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-12" value="Chọn mẫu hiển thị" style="rounded=1;whiteSpace=wrap;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="840" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-15">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1240" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-15" target="KTPN0g-FfG-mgfaY1a5l-20">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-15" target="KTPN0g-FfG-mgfaY1a5l-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-15" value="Cho xem trước hoặc view (khi chưa public)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F4DFFR-r4xgL-Ta9TsYS-1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-15" value="Cho xem trước hoặc view (khi chưa public)" style="rounded=1;whiteSpace=wrap;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="1040" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-16" target="KTPN0g-FfG-mgfaY1a5l-6">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-16" target="KTPN0g-FfG-mgfaY1a5l-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-16" value="Trường học" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F4DFFR-r4xgL-Ta9TsYS-1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-16" value="Trường học" style="rounded=1;whiteSpace=wrap;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-17" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Nội dung mapping&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Ngành nghề&lt;/p&gt;&lt;p&gt;- Loại tin (du học, XKLĐ)&lt;/p&gt;&lt;p&gt;- Địa điểm&lt;/p&gt;&lt;p&gt;- Độ tuổi&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="F4DFFR-r4xgL-Ta9TsYS-1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-17" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Nội dung mapping&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Ngành nghề&lt;/p&gt;&lt;p&gt;- Loại tin (du học, XKLĐ)&lt;/p&gt;&lt;p&gt;- Địa điểm&lt;/p&gt;&lt;p&gt;- Độ tuổi&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="40" y="360" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-18" value="Admin kiểm duyệt" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="F4DFFR-r4xgL-Ta9TsYS-1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-18" value="Admin kiểm duyệt" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="1240" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-20">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1300" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-20" value="Mỗi khi update đều cho chờ duyệt" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="F4DFFR-r4xgL-Ta9TsYS-1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-20" value="Mỗi khi update đều cho chờ duyệt" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="1040" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-24" value="&lt;p&gt;- Nếu là NTD&amp;nbsp; thì mặc định là tin tuyển XKLĐ&lt;/p&gt;&lt;p&gt;- Nếu là Trường học thì mặc định là tin tuyển sinh du học&lt;/p&gt;&lt;p&gt;- Nếu là Cty tư vấn thì sẽ cần chọn 1 trong 2 loại như ứng viên tạo CV&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="F4DFFR-r4xgL-Ta9TsYS-1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-24" value="&lt;p&gt;- Nếu là NTD&amp;nbsp; thì mặc định là tin tuyển XKLĐ&lt;/p&gt;&lt;p&gt;- Nếu là Trường học thì mặc định là tin tuyển sinh du học&lt;/p&gt;&lt;p&gt;- Nếu là Cty tư vấn thì sẽ cần chọn 1 trong 2 loại như ứng viên tạo CV&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="400" y="240" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
