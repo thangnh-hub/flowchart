@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T13:32:24.712Z" agent="5.0 (Windows)" etag="Ut6_naxGcUDPoqbCFPcO" version="15.3.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-09-29T13:37:30.853Z" agent="5.0 (Windows)" etag="H7nyGXkgv31TPQC0OM7N" version="15.3.5" type="github" pages="6">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -895,7 +895,7 @@
         <mxCell id="vc33RPztR9FChnSxHjWX-5" value="locale (varchar)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="vc33RPztR9FChnSxHjWX-2" vertex="1">
           <mxGeometry y="90" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vc33RPztR9FChnSxHjWX-6" value="title (text)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="vc33RPztR9FChnSxHjWX-2" vertex="1">
+        <mxCell id="vc33RPztR9FChnSxHjWX-6" value="title (varchar)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="vc33RPztR9FChnSxHjWX-2" vertex="1">
           <mxGeometry y="120" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vc33RPztR9FChnSxHjWX-11" value="admin_created_id (int)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="vc33RPztR9FChnSxHjWX-2" vertex="1">
