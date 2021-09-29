@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T10:16:02.146Z" agent="5.0 (Windows)" etag="e6L2k5fi-sWtchAGCNX8" version="15.3.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-09-29T10:16:34.332Z" agent="5.0 (Windows)" etag="XteJp0QUya3uFnxbMeek" version="15.3.5" type="github" pages="6">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -425,7 +425,7 @@
           <mxGeometry x="20" y="440" width="220" height="400" as="geometry" />
         </mxCell>
         <mxCell id="XSlEo3M_KBSrygS8Ri8y-0" value="tb_options" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
-          <mxGeometry x="320" y="40" width="160" height="180" as="geometry" />
+          <mxGeometry x="320" y="40" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="XSlEo3M_KBSrygS8Ri8y-1" value="id (integer)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="XSlEo3M_KBSrygS8Ri8y-0" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -441,6 +441,12 @@
         </mxCell>
         <mxCell id="XSlEo3M_KBSrygS8Ri8y-4" value="is_system_param (boolean)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="XSlEo3M_KBSrygS8Ri8y-0" vertex="1">
           <mxGeometry y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s_KE1ouT6e6aPjUlZxAO-1" value="admin_created_id (int)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-0">
+          <mxGeometry y="180" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s_KE1ouT6e6aPjUlZxAO-2" value="admin_updated_id (int)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" vertex="1" parent="XSlEo3M_KBSrygS8Ri8y-0">
+          <mxGeometry y="210" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XSlEo3M_KBSrygS8Ri8y-5" value="tb_logs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
           <mxGeometry x="520" y="40" width="160" height="240" as="geometry" />
