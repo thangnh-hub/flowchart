@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T04:43:16.877Z" agent="5.0 (Windows)" etag="6q-4RSambXB_-fbsEeIv" version="15.3.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-01T10:18:45.214Z" agent="5.0 (Windows)" etag="M8sV2-KkDkv62bFawGp0" version="15.3.8" type="github" pages="7">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1921,6 +1921,77 @@
         </mxCell>
         <mxCell id="yMccqtZedKW7qFxUu8bF-1" value="Authentication" style="whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=default;" parent="GdTiG-v3qQc8l7YeO0QA-1" vertex="1">
           <mxGeometry x="560" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HYenNoJRnOBWAjsEVkbv" name="Affiliate - Flow">
+    <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-0" />
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-1" parent="rVZOLj86oLSbXUa3RTyl-0" />
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-2" value="&lt;h1&gt;Mô hình Affiliate&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;i&gt;Mô tả cơ bản nghiệp vụ hệ thống Affiliate dành cho khách hàng hoạt động chung:&lt;/i&gt;&lt;/p&gt;&lt;div&gt;&lt;b&gt;Có thể tách riêng Khách hàng và CTV hoặc coi chung là tài khoản trên hệ thống&lt;/b&gt;&lt;/div&gt;&lt;p&gt;- Nếu coi chung thì tất cả người dùng sau khi đăng ký tài khoản đều có link để giới thiệu Affiliate&lt;/p&gt;&lt;p&gt;- Nếu tách riêng khách hàng và CTV ra thì chỉ những người dùng là CTV mới có link giới thiệu Affiliate&lt;/p&gt;&lt;p&gt;- Có thể xây dựng hệ thống với 1 mức Affiliate hoặc mô hình đa cấp lũy kế&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Các dịch vụ, mức phí - giá, % điểm - hoa hồng và mức phí rút tiền tối đa, tối thiểu,... đều được cấu hình linh động&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="rVZOLj86oLSbXUa3RTyl-1">
+          <mxGeometry x="40" y="40" width="240" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rVZOLj86oLSbXUa3RTyl-1" source="rVZOLj86oLSbXUa3RTyl-3" target="rVZOLj86oLSbXUa3RTyl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-3" value="Người dùng đăng ký tài khoản CTV" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="rVZOLj86oLSbXUa3RTyl-1">
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rVZOLj86oLSbXUa3RTyl-1" source="rVZOLj86oLSbXUa3RTyl-4" target="rVZOLj86oLSbXUa3RTyl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-4" value="Admin phê duyệt" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="rVZOLj86oLSbXUa3RTyl-1">
+          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rVZOLj86oLSbXUa3RTyl-1" source="rVZOLj86oLSbXUa3RTyl-5" target="rVZOLj86oLSbXUa3RTyl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-5" value="Lấy link Affiliate" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="rVZOLj86oLSbXUa3RTyl-1">
+          <mxGeometry x="720" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rVZOLj86oLSbXUa3RTyl-1" source="rVZOLj86oLSbXUa3RTyl-6" target="rVZOLj86oLSbXUa3RTyl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-6" value="Gửi link cho khách hàng đăng ký" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="rVZOLj86oLSbXUa3RTyl-1">
+          <mxGeometry x="920" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rVZOLj86oLSbXUa3RTyl-1" source="rVZOLj86oLSbXUa3RTyl-7" target="rVZOLj86oLSbXUa3RTyl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-7" value="Khách hàng đăng ký tài khoản qua link Affiliate" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="rVZOLj86oLSbXUa3RTyl-1">
+          <mxGeometry x="920" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rVZOLj86oLSbXUa3RTyl-1" source="rVZOLj86oLSbXUa3RTyl-8" target="rVZOLj86oLSbXUa3RTyl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-8" value="Ghi nhận khách hàng thuộc Affiliate của CTV đó" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="rVZOLj86oLSbXUa3RTyl-1">
+          <mxGeometry x="920" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rVZOLj86oLSbXUa3RTyl-1" source="rVZOLj86oLSbXUa3RTyl-9" target="rVZOLj86oLSbXUa3RTyl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-9" value="Khách hàng phát sinh dịch vụ trên hệ thống" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="rVZOLj86oLSbXUa3RTyl-1">
+          <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rVZOLj86oLSbXUa3RTyl-1" source="rVZOLj86oLSbXUa3RTyl-10" target="rVZOLj86oLSbXUa3RTyl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-10" value="Tính điểm và cộng điểm cho CTV theo % hoa hồng từng dịch vụ " style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="rVZOLj86oLSbXUa3RTyl-1">
+          <mxGeometry x="720" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rVZOLj86oLSbXUa3RTyl-1" source="rVZOLj86oLSbXUa3RTyl-11" target="rVZOLj86oLSbXUa3RTyl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-11" value="Cho phép quy đổi điểm thành tiền theo tỉ lệ (cấu hình)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="rVZOLj86oLSbXUa3RTyl-1">
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-12" value="Cho phép CTV đề xuất rút tiền khi đạt đủ mốc tối thiểu" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="rVZOLj86oLSbXUa3RTyl-1">
+          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rVZOLj86oLSbXUa3RTyl-14" value="&lt;div align=&quot;left&quot;&gt;Hệ thống ghi nhận lịch sử thao tác sau:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Cộng điểm&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Rút tiền&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Tổng tiền đã rút&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Tổng tiền còn lại&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Và các thông tin đối soát khác&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=default;perimeterSpacing=0;align=left;" vertex="1" parent="rVZOLj86oLSbXUa3RTyl-1">
+          <mxGeometry x="320" y="160" width="120" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
