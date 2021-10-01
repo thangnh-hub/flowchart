@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T10:18:45.214Z" agent="5.0 (Windows)" etag="M8sV2-KkDkv62bFawGp0" version="15.3.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-10-01T10:20:34.399Z" agent="5.0 (Windows)" etag="S-6YRgt7GMUrkTCM8C00" version="15.3.8" type="github" pages="7">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1926,7 +1926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HYenNoJRnOBWAjsEVkbv" name="Affiliate - Flow">
-    <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rVZOLj86oLSbXUa3RTyl-0" />
         <mxCell id="rVZOLj86oLSbXUa3RTyl-1" parent="rVZOLj86oLSbXUa3RTyl-0" />
