@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T10:42:54.463Z" agent="5.0 (Windows)" etag="o3glIARrdNrjdOjzwJbB" version="15.4.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-10-05T12:49:20.291Z" agent="5.0 (Windows)" etag="v3npyaqW_Dcc5kLTn3J8" version="15.4.1" type="github" pages="7">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
-    <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -414,7 +414,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ufE5YqhUszwmPdpJnSpr" name="Database">
-    <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="h9vmGm1mbBo84RV_UCD7-0" />
         <mxCell id="h9vmGm1mbBo84RV_UCD7-1" parent="h9vmGm1mbBo84RV_UCD7-0" />
@@ -1766,7 +1766,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uH7yvY8WVB0_rmt_Olk-" name="Tài liệu kỹ thuật">
-    <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GdTiG-v3qQc8l7YeO0QA-0" />
         <mxCell id="GdTiG-v3qQc8l7YeO0QA-1" parent="GdTiG-v3qQc8l7YeO0QA-0" />
@@ -1913,7 +1913,7 @@
         <mxCell id="H7AAqJmOKPOhPwf7ODmI-46" value="res" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GdTiG-v3qQc8l7YeO0QA-1" vertex="1">
           <mxGeometry x="505" y="50" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JSdY5ckUt87o0z8qJVw2-0" value="&lt;h1&gt;Issues - Solutions&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;i&gt;Bao gồm các nội dung ghi chú cho việc xử lý hệ thống hoặc update phiên bản:&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Issues - languages - localization:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Xử lý ngôn ngữ theo dạng file config, array và mã các thành phần như: quốc gia, tỉnh thành, ngành nghề,...&lt;/p&gt;&lt;p&gt;- Vấn đề gặp phải của phần ngôn ngữ là linh động trong DB thì sẽ giới hạn và phụ thuộc vào số trường dữ liệu, custom câu truy vấn gặp khó khăn&lt;/p&gt;&lt;p&gt;- Việc áp dụng file config array language chỉ phù hợp với các nội dung cố định, trường hợp linh động như bài viết, menu, danh mục,... sẽ không xử lý được&lt;/p&gt;&lt;p&gt;&lt;b&gt;Solution - languages - localization:&lt;/b&gt; &lt;br&gt;&lt;/p&gt;&lt;p&gt;- Tách với mỗi bảng cần locale thêm 1 bảng {tên bảng chính}_{mã locale} lưu các thông tin: id_relation, locale_code, title, description, content,...&lt;/p&gt;&lt;p&gt;- Query sẽ check theo 2 bảng này để lấy ra thông tin&lt;/p&gt;&lt;p&gt;- Đối với các dữ liệu cố định ít thay đổi, tạm thời vẫn dùng DB - có thể nghiên cứu thêm cho việc dùng config file để tối ưu tốc độ (ưu tiên sau)&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#FF3333&quot;&gt;&lt;b&gt;Bổ sung phần định nghĩa trang, các khối block đi theo trang - trang chính là router name&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" parent="GdTiG-v3qQc8l7YeO0QA-1" vertex="1">
+        <mxCell id="JSdY5ckUt87o0z8qJVw2-0" value="&lt;h1&gt;Issues - Solutions&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;i&gt;Bao gồm các nội dung ghi chú cho việc xử lý hệ thống hoặc update phiên bản:&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Issues - languages - localization:&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Xử lý ngôn ngữ theo dạng file config, array và mã các thành phần như: quốc gia, tỉnh thành, ngành nghề,...&lt;/p&gt;&lt;p&gt;- Vấn đề gặp phải của phần ngôn ngữ là linh động trong DB thì sẽ giới hạn và phụ thuộc vào số trường dữ liệu, custom câu truy vấn gặp khó khăn&lt;/p&gt;&lt;p&gt;- Việc áp dụng file config array language chỉ phù hợp với các nội dung cố định, trường hợp linh động như bài viết, menu, danh mục,... sẽ không xử lý được&lt;/p&gt;&lt;p&gt;&lt;b&gt;Solution - languages - localization:&lt;/b&gt; &lt;br&gt;&lt;/p&gt;&lt;p&gt;- Tách với mỗi bảng cần locale thêm 1 bảng {tên bảng chính}_{mã locale} lưu các thông tin: id_relation, locale_code, title, description, content,...&lt;/p&gt;&lt;p&gt;- Query sẽ check theo 2 bảng này để lấy ra thông tin&lt;/p&gt;&lt;p&gt;- Đối với các dữ liệu cố định ít thay đổi, tạm thời vẫn dùng DB - có thể nghiên cứu thêm cho việc dùng config file để tối ưu tốc độ (ưu tiên sau)&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#FF3333&quot;&gt;&lt;b&gt;Bổ sung phần định nghĩa trang, các khối block đi theo trang - trang là router name&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" parent="GdTiG-v3qQc8l7YeO0QA-1" vertex="1">
           <mxGeometry x="40" y="40" width="280" height="520" as="geometry" />
         </mxCell>
         <mxCell id="yMccqtZedKW7qFxUu8bF-0" value="Middleware" style="whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=default;" parent="GdTiG-v3qQc8l7YeO0QA-1" vertex="1">
@@ -1921,6 +1921,21 @@
         </mxCell>
         <mxCell id="yMccqtZedKW7qFxUu8bF-1" value="Authentication" style="whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=default;" parent="GdTiG-v3qQc8l7YeO0QA-1" vertex="1">
           <mxGeometry x="560" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YlRqW5_Nx3qHQZliGlPW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GdTiG-v3qQc8l7YeO0QA-1" source="YlRqW5_Nx3qHQZliGlPW-0" target="YlRqW5_Nx3qHQZliGlPW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlRqW5_Nx3qHQZliGlPW-0" value="Menu đi theo system_code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GdTiG-v3qQc8l7YeO0QA-1">
+          <mxGeometry x="1160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlRqW5_Nx3qHQZliGlPW-1" value="Block đi theo page (route)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GdTiG-v3qQc8l7YeO0QA-1">
+          <mxGeometry x="1160" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlRqW5_Nx3qHQZliGlPW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GdTiG-v3qQc8l7YeO0QA-1" source="H7AAqJmOKPOhPwf7ODmI-1" target="YlRqW5_Nx3qHQZliGlPW-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlRqW5_Nx3qHQZliGlPW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GdTiG-v3qQc8l7YeO0QA-1" source="H7AAqJmOKPOhPwf7ODmI-2" target="YlRqW5_Nx3qHQZliGlPW-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
