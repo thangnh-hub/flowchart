@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T16:20:18.929Z" agent="5.0 (Windows)" etag="hL0C_yIR2IFAqA_-IPbj" version="15.4.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-10-06T16:38:08.052Z" agent="5.0 (Windows)" etag="LaIWxQhC04sMVakrAtK9" version="15.4.1" type="github" pages="7">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1767,6 +1767,12 @@
         </mxCell>
         <mxCell id="tTOhVIudX7TeCitkz83u-0" value="Bổ sung phần định nghĩa trang, title, meta,..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="h9vmGm1mbBo84RV_UCD7-1">
           <mxGeometry x="320" y="380" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tTOhVIudX7TeCitkz83u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="h9vmGm1mbBo84RV_UCD7-1" source="tTOhVIudX7TeCitkz83u-1" target="5dfsjcRzjJBhrZbEL3tq-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tTOhVIudX7TeCitkz83u-1" value="&lt;div align=&quot;left&quot;&gt;Vẫn get all content nhưng check thêm &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;nếu là kiểu người dùng nào &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;thì mới hiển thị tương ứng&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Để làm sau, hiện tại check all &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;bỏ qua điều kiện này&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="h9vmGm1mbBo84RV_UCD7-1">
+          <mxGeometry x="720" y="775" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
