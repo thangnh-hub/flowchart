@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T03:56:50.696Z" agent="5.0 (Windows)" etag="Rjp2EXUXeaWfixJecRIu" version="15.4.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-10-07T10:23:10.420Z" agent="5.0 (Windows)" etag="ENPscSQFOGnyCQm7Qgxh" version="15.4.1" type="github" pages="7">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1060,7 +1060,7 @@
         <mxCell id="5dfsjcRzjJBhrZbEL3tq-17" value="Ngôn ngữ cho menu" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
           <mxGeometry x="1920" y="10" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5dfsjcRzjJBhrZbEL3tq-18" value="Định nghĩa kiểu block chung" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
+        <mxCell id="5dfsjcRzjJBhrZbEL3tq-18" value="Định nghĩa kiểu block chung" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
           <mxGeometry x="320" y="410" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5dfsjcRzjJBhrZbEL3tq-19" value="Định nghĩa block trên trang" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
