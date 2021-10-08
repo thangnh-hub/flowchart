@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T20:15:26.501Z" agent="5.0 (Windows)" etag="Notay7Ow4Ib8Blfts2Rz" version="15.4.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-10-08T20:24:47.421Z" agent="5.0 (Windows)" etag="DDVseXqsoqERFqGna3Ik" version="15.4.1" type="github" pages="7">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1759,8 +1759,8 @@
         <mxCell id="FS7wXIZjAsGqRh7tGgGc-0" value="&lt;h1&gt;Note DB&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Bao gồm các ghi chú trường dữ liệu tổng hợp:&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;- Lưu ý các trường dữ liệu dạng json sẽ lưu dữ liệu kiểu key--value, áp dụng cho các dữ liệu kiểu truy xuất, không có ràng buộc khóa ngoại&lt;/i&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
           <mxGeometry x="20" y="880" width="220" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="tTOhVIudX7TeCitkz83u-0" value="Bổ sung phần định nghĩa trang, title, meta,..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
-          <mxGeometry x="320" y="380" width="260" height="20" as="geometry" />
+        <mxCell id="tTOhVIudX7TeCitkz83u-0" value="Bổ sung phần định nghĩa trang, title, meta,... - Làm sau" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
+          <mxGeometry x="680" y="380" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tTOhVIudX7TeCitkz83u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="h9vmGm1mbBo84RV_UCD7-1" source="tTOhVIudX7TeCitkz83u-1" target="5dfsjcRzjJBhrZbEL3tq-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1808,7 +1808,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uH7yvY8WVB0_rmt_Olk-" name="Tài liệu kỹ thuật">
-    <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GdTiG-v3qQc8l7YeO0QA-0" />
         <mxCell id="GdTiG-v3qQc8l7YeO0QA-1" parent="GdTiG-v3qQc8l7YeO0QA-0" />
