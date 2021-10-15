@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T16:55:31.963Z" agent="5.0 (Windows)" etag="4oZrVcpe9r7379H8tnhd" version="15.5.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-10-15T16:55:41.112Z" agent="5.0 (Windows)" etag="Ge6rwmCqwc3K11MumQsN" version="15.5.2" type="github" pages="7">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1805,7 +1805,12 @@
           <mxGeometry y="270" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="paFbonRiwhqRV55Clvti-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="h9vmGm1mbBo84RV_UCD7-1" source="paFbonRiwhqRV55Clvti-11" target="paFbonRiwhqRV55Clvti-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1115" y="780" />
+              <mxPoint x="791" y="780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="paFbonRiwhqRV55Clvti-11" value="&lt;div&gt;Bổ sung phần constant mảng các &lt;br&gt;&lt;/div&gt;&lt;div&gt;chức năng - định tuyến trên hệ thống&lt;/div&gt;&lt;div&gt;khai báo dạng như mã hệ thống&lt;/div&gt;&lt;div&gt;Mục đích để lấy danh sách lựa chọn&lt;/div&gt;&lt;div&gt;khi tạo trang&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;dashed=1;fontStyle=1" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
           <mxGeometry x="1000" y="800" width="230" height="80" as="geometry" />
