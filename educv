@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T07:25:12.606Z" agent="5.0 (Windows)" etag="w0OBChOsUGiQjzH14Cn3" version="15.5.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-10-16T07:26:06.305Z" agent="5.0 (Windows)" etag="odZZbf8dVtE7FOWWMTsR" version="15.5.4" type="github" pages="8">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2065,7 +2065,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y_o9dewaQgA-RzwnHzsx" name="Phần mềm quản lý bán hàng">
-    <mxGraphModel dx="2002" dy="858" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="r15j643eh0LKJOiQIvnn-0" />
         <mxCell id="r15j643eh0LKJOiQIvnn-1" parent="r15j643eh0LKJOiQIvnn-0" />
