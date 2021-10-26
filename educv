@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T14:51:52.872Z" agent="5.0 (Windows)" etag="GslhY7BOLL-8QATj7XAX" version="15.5.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-10-26T16:59:36.954Z" agent="5.0 (Windows)" etag="LEoLHhPxiuuQjOVdAxsF" version="15.5.9" type="github" pages="8">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1368,7 +1368,7 @@
         <mxCell id="pRkAmiLnZRoJWuRYtHvy-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startSize=6;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" parent="h9vmGm1mbBo84RV_UCD7-1" source="pRkAmiLnZRoJWuRYtHvy-38" target="pRkAmiLnZRoJWuRYtHvy-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pRkAmiLnZRoJWuRYtHvy-109" value="Người dùng hệ thống public" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
+        <mxCell id="pRkAmiLnZRoJWuRYtHvy-109" value="Người dùng hệ thống public" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
           <mxGeometry x="520" y="960" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pRkAmiLnZRoJWuRYtHvy-110" value="&lt;div&gt;&lt;font color=&quot;#FF6666&quot;&gt;Hồ sơ CV - ứng viên - copy field dữ liệu &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FF6666&quot;&gt;như users là ứng viên khi cty tư vấn tạo&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FF6666&quot;&gt;- Khi lưu sẽ check loại user để update&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FF6666&quot;&gt;đồng bộ với bảng users là ứng viên&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
