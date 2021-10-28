@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T09:49:37.856Z" agent="5.0 (Windows)" etag="QdvmbgWBMIoA7L5XYrVa" version="15.5.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-10-28T10:02:34.491Z" agent="5.0 (Windows)" etag="5xta7uuPtUg6TcLpsuTZ" version="15.5.9" type="github" pages="8">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -414,7 +414,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ufE5YqhUszwmPdpJnSpr" name="Database">
-    <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2002" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="h9vmGm1mbBo84RV_UCD7-0" />
         <mxCell id="h9vmGm1mbBo84RV_UCD7-1" parent="h9vmGm1mbBo84RV_UCD7-0" />
@@ -1536,7 +1536,7 @@
         <mxCell id="PmoIXqYL7g4ZKhnegDwX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startSize=6;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" parent="h9vmGm1mbBo84RV_UCD7-1" source="XSlEo3M_KBSrygS8Ri8y-56" target="s_KE1ouT6e6aPjUlZxAO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FS7wXIZjAsGqRh7tGgGc-0" value="&lt;h1&gt;Note DB&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Bao gồm các ghi chú trường dữ liệu tổng hợp:&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;- Lưu ý các trường dữ liệu dạng json sẽ lưu dữ liệu kiểu key--value, áp dụng cho các dữ liệu kiểu truy xuất, không có ràng buộc khóa ngoại&lt;/i&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
+        <mxCell id="FS7wXIZjAsGqRh7tGgGc-0" value="&lt;h1&gt;Note DB&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Bao gồm các ghi chú trường dữ liệu tổng hợp:&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;- Lưu ý các trường dữ liệu dạng json sẽ lưu dữ liệu kiểu key--value, áp dụng cho các dữ liệu kiểu truy xuất, không có ràng buộc khóa ngoại&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;b&gt;- Một số phần dữ liệu của người dùng public và cv + job sẽ được tối ưu dữ liệu bằng cách sử dụng json data&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
           <mxGeometry x="20" y="880" width="220" height="240" as="geometry" />
         </mxCell>
         <mxCell id="tTOhVIudX7TeCitkz83u-0" value="Bổ sung phần định nghĩa trang, title, meta,... - Làm sau" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
