@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T09:40:21.040Z" agent="5.0 (Windows)" etag="V6SfBizPiutgGA7u2401" version="15.5.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-10-28T09:48:27.560Z" agent="5.0 (Windows)" etag="RB0sIC4KTRzeqkvwg023" version="15.5.9" type="github" pages="8">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
     <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1246,7 +1246,7 @@
         <mxCell id="pRkAmiLnZRoJWuRYtHvy-67" value="id (bigint)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="pRkAmiLnZRoJWuRYtHvy-66" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pRkAmiLnZRoJWuRYtHvy-68" value="user_cv_id (bigint)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="pRkAmiLnZRoJWuRYtHvy-66" vertex="1">
+        <mxCell id="pRkAmiLnZRoJWuRYtHvy-68" value="cv_id (bigint)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="pRkAmiLnZRoJWuRYtHvy-66" vertex="1">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pRkAmiLnZRoJWuRYtHvy-69" value="country_id (int)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="pRkAmiLnZRoJWuRYtHvy-66" vertex="1">
@@ -1261,7 +1261,7 @@
         <mxCell id="pRkAmiLnZRoJWuRYtHvy-71" value="id (bigint)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="pRkAmiLnZRoJWuRYtHvy-70" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pRkAmiLnZRoJWuRYtHvy-72" value="user_cv_id (bigint)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="pRkAmiLnZRoJWuRYtHvy-70" vertex="1">
+        <mxCell id="pRkAmiLnZRoJWuRYtHvy-72" value="cv_id (bigint)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="pRkAmiLnZRoJWuRYtHvy-70" vertex="1">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pRkAmiLnZRoJWuRYtHvy-73" value="job_category_id (int)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;" parent="pRkAmiLnZRoJWuRYtHvy-70" vertex="1">
