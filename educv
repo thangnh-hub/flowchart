@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T10:02:34.491Z" agent="5.0 (Windows)" etag="5xta7uuPtUg6TcLpsuTZ" version="15.5.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-11-25T03:10:32.860Z" agent="5.0 (Windows)" etag="69wxXlH7keBooEazN6pP" version="15.8.3" type="github" pages="8">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
-    <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,7 +333,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cUD9KI47mRpiztktptr5" name="Việc làm - tuyển sinh">
-    <mxGraphModel dx="1550" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="F4DFFR-r4xgL-Ta9TsYS-0" />
         <mxCell id="F4DFFR-r4xgL-Ta9TsYS-1" parent="F4DFFR-r4xgL-Ta9TsYS-0" />
@@ -367,7 +367,7 @@
         <mxCell id="KTPN0g-FfG-mgfaY1a5l-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-10" target="KTPN0g-FfG-mgfaY1a5l-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KTPN0g-FfG-mgfaY1a5l-10" value="&lt;div&gt;Form nhập thông tin tương ứng theo &lt;br&gt;&lt;/div&gt;&lt;div&gt;loại Ctin&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
+        <mxCell id="KTPN0g-FfG-mgfaY1a5l-10" value="&lt;div&gt;Form nhập thông tin tương ứng theo &lt;br&gt;&lt;/div&gt;&lt;div&gt;loại tin&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" vertex="1">
           <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KTPN0g-FfG-mgfaY1a5l-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="F4DFFR-r4xgL-Ta9TsYS-1" source="KTPN0g-FfG-mgfaY1a5l-12" target="KTPN0g-FfG-mgfaY1a5l-15" edge="1">
