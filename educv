@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T08:32:11.342Z" agent="5.0 (Windows)" etag="t22JM1Sm3A7179ePw0Lb" version="17.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-21T01:57:31.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="AFCCeC6YTb6_UJTi6_gv" version="21.1.4" type="github" pages="8">
   <diagram id="EOBOeJvycFcdDbldwLPI" name="Nghiệp vụ hệ thống">
-    <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1802" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YBgj8F_JS8FptGykVgDh" name="Đối tượng sử dụng">
-    <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1802" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SA5O0SEtqd9fDacigxM--0" />
         <mxCell id="SA5O0SEtqd9fDacigxM--1" parent="SA5O0SEtqd9fDacigxM--0" />
@@ -262,7 +262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zdADkHslK1lEbzG3bddj" name="CV ứng viên">
-    <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1802" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="CRndQ9XIR1rZxHX2FJyD-0" />
         <mxCell id="CRndQ9XIR1rZxHX2FJyD-1" parent="CRndQ9XIR1rZxHX2FJyD-0" />
@@ -414,11 +414,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ufE5YqhUszwmPdpJnSpr" name="Database">
-    <mxGraphModel dx="1790" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1802" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="h9vmGm1mbBo84RV_UCD7-0" />
         <mxCell id="h9vmGm1mbBo84RV_UCD7-1" parent="h9vmGm1mbBo84RV_UCD7-0" />
-        <mxCell id="5l3peV9dle7mCoq4JlIz-0" value="&lt;h1&gt;System DB&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Bao gồm các bảng liên quan đến vận hành và cấu hình tham số hệ thống:&lt;/p&gt;&lt;p&gt;- Quản lý Menu - Để sau&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý page - là biến hằng số khai báo&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý khối blog&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý người dùng Admin&lt;/p&gt;&lt;p&gt;- Quản lý phân quyền&lt;/p&gt;&lt;p&gt;- Quản lý lịch sử thao tác (nghiên cứu để có thể dùng chung với Front-End)&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Định nghĩa các chức năng, sub chức năng&lt;/p&gt;&lt;p&gt;- Các bảng danh mục dùng chung: quốc gia, tỉnh thành, quận huyện,... &lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
+        <mxCell id="5l3peV9dle7mCoq4JlIz-0" value="&lt;h1&gt;System DB&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Bao gồm các bảng liên quan đến vận hành và cấu hình tham số hệ thống:&lt;/p&gt;&lt;p&gt;- Quản lý Menu - Để sau&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý page - là biến hằng số khai báo&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý khối block&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý người dùng Admin&lt;/p&gt;&lt;p&gt;- Quản lý phân quyền&lt;/p&gt;&lt;p&gt;- Quản lý lịch sử thao tác (nghiên cứu để có thể dùng chung với Front-End)&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Định nghĩa các chức năng, sub chức năng&lt;/p&gt;&lt;p&gt;- Các bảng danh mục dùng chung: quốc gia, tỉnh thành, quận huyện,... &lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
           <mxGeometry x="20" y="40" width="220" height="360" as="geometry" />
         </mxCell>
         <mxCell id="5l3peV9dle7mCoq4JlIz-1" value="&lt;h1&gt;Application DB&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Bao gồm các bảng liên quan đến hệ thống ứng dụng cho từng project:&lt;/p&gt;&lt;p&gt;- Quản lý Người dùng Front-End&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý CV&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý Tin đăng&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý Gói dịch vụ&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý Ngành nghề&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý lịch sử thao tác&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Các bảng quan hệ trung gian,... &lt;br&gt;&lt;/p&gt;&lt;p&gt;- Quản lý danh mục bài viết&lt;/p&gt;&lt;p&gt;- Quản lý bài viết&lt;/p&gt;&lt;p&gt;&lt;i&gt;- Lưu ý các trường dữ liệu dạng json sẽ lưu dữ liệu kiểu key--value, áp dụng cho các dữ liệu kiểu truy xuất, không có ràng buộc khóa ngoại&lt;/i&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;shadow=0;glass=0;dashed=1;" parent="h9vmGm1mbBo84RV_UCD7-1" vertex="1">
